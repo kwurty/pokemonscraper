@@ -1,0 +1,7186 @@
+[
+  {
+    "number": "001",
+    "name": "Bulbasaur",
+    "kana": "フシギダネ",
+    "hepburn": "Fushigidane",
+    "trademark": "Fushigidane",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/21/001MS8.png"
+  },
+  {
+    "number": "002",
+    "name": "Ivysaur",
+    "kana": "フシギソウ",
+    "hepburn": "Fushigisō",
+    "trademark": "Fushigisou",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/38/002MS8.png"
+  },
+  {
+    "number": "003",
+    "name": "Venusaur",
+    "kana": "フシギバナ",
+    "hepburn": "Fushigibana",
+    "trademark": "Fushigibana",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/ba/003MS8.png"
+  },
+  {
+    "number": "004",
+    "name": "Charmander",
+    "kana": "ヒトカゲ",
+    "hepburn": "Hitokage",
+    "trademark": "Hitokage",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/dc/004MS8.png"
+  },
+  {
+    "number": "005",
+    "name": "Charmeleon",
+    "kana": "リザード",
+    "hepburn": "Rizādo",
+    "trademark": "Lizardo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b8/005MS8.png"
+  },
+  {
+    "number": "006",
+    "name": "Charizard",
+    "kana": "リザードン",
+    "hepburn": "Rizādon",
+    "trademark": "Lizardon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a4/006MS8.png"
+  },
+  {
+    "number": "007",
+    "name": "Squirtle",
+    "kana": "ゼニガメ",
+    "hepburn": "Zenigame",
+    "trademark": "Zenigame",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/dc/007MS8.png"
+  },
+  {
+    "number": "008",
+    "name": "Wartortle",
+    "kana": "カメール",
+    "hepburn": "Kamēru",
+    "trademark": "Kameil",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/008MS8.png"
+  },
+  {
+    "number": "009",
+    "name": "Blastoise",
+    "kana": "カメックス",
+    "hepburn": "Kamekkusu",
+    "trademark": "Kamex",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f0/009MS8.png"
+  },
+  {
+    "number": "010",
+    "name": "Caterpie",
+    "kana": "キャタピー",
+    "hepburn": "Kyatapī",
+    "trademark": "Caterpie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/61/010MS8.png"
+  },
+  {
+    "number": "011",
+    "name": "Metapod",
+    "kana": "トランセル",
+    "hepburn": "Toranseru",
+    "trademark": "Transel",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f9/011MS8.png"
+  },
+  {
+    "number": "012",
+    "name": "Butterfree",
+    "kana": "バタフリー",
+    "hepburn": "Batafurī",
+    "trademark": "Butterfree",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fe/012MS8.png"
+  },
+  {
+    "number": "013",
+    "name": "Weedle",
+    "kana": "ビードル",
+    "hepburn": "Bīdoru",
+    "trademark": "Beedle",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bc/013MSPE.png"
+  },
+  {
+    "number": "014",
+    "name": "Kakuna",
+    "kana": "コクーン",
+    "hepburn": "Kokūn",
+    "trademark": "Cocoon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/70/014MSPE.png"
+  },
+  {
+    "number": "015",
+    "name": "Beedrill",
+    "kana": "スピアー",
+    "hepburn": "Supiā",
+    "trademark": "Spear",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a2/015MSPE.png"
+  },
+  {
+    "number": "016",
+    "name": "Pidgey",
+    "kana": "ポッポ",
+    "hepburn": "Poppo",
+    "trademark": "Poppo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/56/016MSPE.png"
+  },
+  {
+    "number": "017",
+    "name": "Pidgeotto",
+    "kana": "ピジョン",
+    "hepburn": "Pijon",
+    "trademark": "Pigeon*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cc/017MSPE.png"
+  },
+  {
+    "number": "018",
+    "name": "Pidgeot",
+    "kana": "ピジョット",
+    "hepburn": "Pijotto",
+    "trademark": "Pigeot*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/93/018MSPE.png"
+  },
+  {
+    "number": "019",
+    "name": "Rattata",
+    "kana": "コラッタ",
+    "hepburn": "Koratta",
+    "trademark": "Koratta",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7a/019MSPE.png"
+  },
+  {
+    "number": "020",
+    "name": "Raticate",
+    "kana": "ラッタ",
+    "hepburn": "Ratta",
+    "trademark": "Ratta",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/77/020MSPE.png"
+  },
+  {
+    "number": "021",
+    "name": "Spearow",
+    "kana": "オニスズメ",
+    "hepburn": "Onisuzume",
+    "trademark": "Onisuzume",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/021MSPE.png"
+  },
+  {
+    "number": "022",
+    "name": "Fearow",
+    "kana": "オニドリル",
+    "hepburn": "Onidoriru",
+    "trademark": "Onidrill",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/76/022MSPE.png"
+  },
+  {
+    "number": "023",
+    "name": "Ekans",
+    "kana": "アーボ",
+    "hepburn": "Ābo",
+    "trademark": "Arbo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a7/023MSPE.png"
+  },
+  {
+    "number": "024",
+    "name": "Arbok",
+    "kana": "アーボック",
+    "hepburn": "Ābokku",
+    "trademark": "Arbok",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2c/024MSPE.png"
+  },
+  {
+    "number": "025",
+    "name": "Pikachu",
+    "kana": "ピカチュウ",
+    "hepburn": "Pikachū",
+    "trademark": "Pikachu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/66/025MS8.png"
+  },
+  {
+    "number": "026",
+    "name": "Raichu",
+    "kana": "ライチュウ",
+    "hepburn": "Raichū",
+    "trademark": "Raichu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b5/026MS8.png"
+  },
+  {
+    "number": "027",
+    "name": "Sandshrew",
+    "kana": "サンド",
+    "hepburn": "Sando",
+    "trademark": "Sand",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ac/027MS8.png"
+  },
+  {
+    "number": "028",
+    "name": "Sandslash",
+    "kana": "サンドパン",
+    "hepburn": "Sandopan",
+    "trademark": "Sandpan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b6/028MS8.png"
+  },
+  {
+    "number": "029",
+    "name": "Nidoran♀",
+    "kana": "ニドラン♀",
+    "hepburn": "Nidoran Mesu",
+    "trademark": "Nidoran♀",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/89/029MS8.png"
+  },
+  {
+    "number": "030",
+    "name": "Nidorina",
+    "kana": "ニドリーナ",
+    "hepburn": "Nidorīna",
+    "trademark": "Nidorina*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9e/030MS8.png"
+  },
+  {
+    "number": "031",
+    "name": "Nidoqueen",
+    "kana": "ニドクイン",
+    "hepburn": "Nidokuin",
+    "trademark": "Nidoqueen",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8d/031MS8.png"
+  },
+  {
+    "number": "032",
+    "name": "Nidoran♂",
+    "kana": "ニドラン♂",
+    "hepburn": "Nidoran Osu",
+    "trademark": "Nidoran♂",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4a/032MS8.png"
+  },
+  {
+    "number": "033",
+    "name": "Nidorino",
+    "kana": "ニドリーノ",
+    "hepburn": "Nidorīno",
+    "trademark": "Nidorino*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/033MS8.png"
+  },
+  {
+    "number": "034",
+    "name": "Nidoking",
+    "kana": "ニドキング",
+    "hepburn": "Nidokingu",
+    "trademark": "Nidoking",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8a/034MS8.png"
+  },
+  {
+    "number": "035",
+    "name": "Clefairy",
+    "kana": "ピッピ",
+    "hepburn": "Pippi",
+    "trademark": "Pippi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cf/035MS8.png"
+  },
+  {
+    "number": "036",
+    "name": "Clefable",
+    "kana": "ピクシー",
+    "hepburn": "Pikushī",
+    "trademark": "Pixy*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/97/036MS8.png"
+  },
+  {
+    "number": "037",
+    "name": "Vulpix",
+    "kana": "ロコン",
+    "hepburn": "Rokon",
+    "trademark": "Rokon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6d/037MS8.png"
+  },
+  {
+    "number": "038",
+    "name": "Ninetales",
+    "kana": "キュウコン",
+    "hepburn": "Kyūkon",
+    "trademark": "Kyukon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/61/038MS8.png"
+  },
+  {
+    "number": "039",
+    "name": "Jigglypuff",
+    "kana": "プリン",
+    "hepburn": "Purin",
+    "trademark": "Purin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f3/039MS8.png"
+  },
+  {
+    "number": "040",
+    "name": "Wigglytuff",
+    "kana": "プクリン",
+    "hepburn": "Pukurin",
+    "trademark": "Pukurin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c6/040MS8.png"
+  },
+  {
+    "number": "041",
+    "name": "Zubat",
+    "kana": "ズバット",
+    "hepburn": "Zubatto",
+    "trademark": "Zubat",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0c/041MS8.png"
+  },
+  {
+    "number": "042",
+    "name": "Golbat",
+    "kana": "ゴルバット",
+    "hepburn": "Gorubatto",
+    "trademark": "Golbat",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/ce/042MS8.png"
+  },
+  {
+    "number": "043",
+    "name": "Oddish",
+    "kana": "ナゾノクサ",
+    "hepburn": "Nazonokusa",
+    "trademark": "Nazonokusa",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/68/043MS8.png"
+  },
+  {
+    "number": "044",
+    "name": "Gloom",
+    "kana": "クサイハナ",
+    "hepburn": "Kusaihana",
+    "trademark": "Kusaihana",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f5/044MS8.png"
+  },
+  {
+    "number": "045",
+    "name": "Vileplume",
+    "kana": "ラフレシア",
+    "hepburn": "Rafureshia",
+    "trademark": "Ruffresia*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a5/045MS8.png"
+  },
+  {
+    "number": "046",
+    "name": "Paras",
+    "kana": "パラス",
+    "hepburn": "Parasu",
+    "trademark": "Paras",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6a/046MSPE.png"
+  },
+  {
+    "number": "047",
+    "name": "Parasect",
+    "kana": "パラセクト",
+    "hepburn": "Parasekuto",
+    "trademark": "Parasect",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/40/047MSPE.png"
+  },
+  {
+    "number": "048",
+    "name": "Venonat",
+    "kana": "コンパン",
+    "hepburn": "Konpan",
+    "trademark": "Kongpang",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/30/048MSPE.png"
+  },
+  {
+    "number": "049",
+    "name": "Venomoth",
+    "kana": "モルフォン",
+    "hepburn": "Morufon",
+    "trademark": "Morphon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a7/049MSPE.png"
+  },
+  {
+    "number": "050",
+    "name": "Diglett",
+    "kana": "ディグダ",
+    "hepburn": "Diguda",
+    "trademark": "Digda",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f1/050MS8.png"
+  },
+  {
+    "number": "051",
+    "name": "Dugtrio",
+    "kana": "ダグトリオ",
+    "hepburn": "Dagutorio",
+    "trademark": "Dugtrio",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2a/051MS8.png"
+  },
+  {
+    "number": "052",
+    "name": "Meowth",
+    "kana": "ニャース",
+    "hepburn": "Nyāsu",
+    "trademark": "Nyarth*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e4/052MS8.png"
+  },
+  {
+    "number": "053",
+    "name": "Persian",
+    "kana": "ペルシアン",
+    "hepburn": "Perushian",
+    "trademark": "Persian",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f7/053MS8.png"
+  },
+  {
+    "number": "054",
+    "name": "Psyduck",
+    "kana": "コダック",
+    "hepburn": "Kodakku",
+    "trademark": "Koduck*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a0/054MS8.png"
+  },
+  {
+    "number": "055",
+    "name": "Golduck",
+    "kana": "ゴルダック",
+    "hepburn": "Gorudakku",
+    "trademark": "Golduck*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7f/055MS8.png"
+  },
+  {
+    "number": "056",
+    "name": "Mankey",
+    "kana": "マンキー",
+    "hepburn": "Mankī",
+    "trademark": "Mankey",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/056MSPE.png"
+  },
+  {
+    "number": "057",
+    "name": "Primeape",
+    "kana": "オコリザル",
+    "hepburn": "Okorizaru",
+    "trademark": "Okorizaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/aa/057MSPE.png"
+  },
+  {
+    "number": "058",
+    "name": "Growlithe",
+    "kana": "ガーディ",
+    "hepburn": "Gādi",
+    "trademark": "Gardie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/45/058MS8.png"
+  },
+  {
+    "number": "059",
+    "name": "Arcanine",
+    "kana": "ウインディ",
+    "hepburn": "Uindi",
+    "trademark": "Windie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cc/059MS8.png"
+  },
+  {
+    "number": "060",
+    "name": "Poliwag",
+    "kana": "ニョロモ",
+    "hepburn": "Nyoromo",
+    "trademark": "Nyoromo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c7/060MS8.png"
+  },
+  {
+    "number": "061",
+    "name": "Poliwhirl",
+    "kana": "ニョロゾ",
+    "hepburn": "Nyorozo",
+    "trademark": "Nyorozo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b1/061MS8.png"
+  },
+  {
+    "number": "062",
+    "name": "Poliwrath",
+    "kana": "ニョロボン",
+    "hepburn": "Nyorobon",
+    "trademark": "Nyorobon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e4/062MS8.png"
+  },
+  {
+    "number": "063",
+    "name": "Abra",
+    "kana": "ケーシィ",
+    "hepburn": "Kēshī",
+    "trademark": "Casey*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4e/063MS8.png"
+  },
+  {
+    "number": "064",
+    "name": "Kadabra",
+    "kana": "ユンゲラー",
+    "hepburn": "Yungerā",
+    "trademark": "Yungerer*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/dc/064MS8.png"
+  },
+  {
+    "number": "065",
+    "name": "Alakazam",
+    "kana": "フーディン",
+    "hepburn": "Fūdin",
+    "trademark": "Foodin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/41/065MS8.png"
+  },
+  {
+    "number": "066",
+    "name": "Machop",
+    "kana": "ワンリキー",
+    "hepburn": "Wanrikī",
+    "trademark": "Wanriky*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4c/066MS8.png"
+  },
+  {
+    "number": "067",
+    "name": "Machoke",
+    "kana": "ゴーリキー",
+    "hepburn": "Gōrikī",
+    "trademark": "Goriky*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/13/067MS8.png"
+  },
+  {
+    "number": "068",
+    "name": "Machamp",
+    "kana": "カイリキー",
+    "hepburn": "Kairikī",
+    "trademark": "Kairiky*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/87/068MS8.png"
+  },
+  {
+    "number": "069",
+    "name": "Bellsprout",
+    "kana": "マダツボミ",
+    "hepburn": "Madatsubomi",
+    "trademark": "Madatsubomi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/41/069MSPE.png"
+  },
+  {
+    "number": "070",
+    "name": "Weepinbell",
+    "kana": "ウツドン",
+    "hepburn": "Utsudon",
+    "trademark": "Utsudon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2e/070MSPE.png"
+  },
+  {
+    "number": "071",
+    "name": "Victreebel",
+    "kana": "ウツボット",
+    "hepburn": "Utsubotto",
+    "trademark": "Utsubot",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4b/071MSPE.png"
+  },
+  {
+    "number": "072",
+    "name": "Tentacool",
+    "kana": "メノクラゲ",
+    "hepburn": "Menokurage",
+    "trademark": "Menokurage",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6f/072MS8.png"
+  },
+  {
+    "number": "073",
+    "name": "Tentacruel",
+    "kana": "ドククラゲ",
+    "hepburn": "Dokukurage",
+    "trademark": "Dokukurage",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6c/073MS8.png"
+  },
+  {
+    "number": "074",
+    "name": "Geodude",
+    "kana": "イシツブテ",
+    "hepburn": "Ishitsubute",
+    "trademark": "Isitsubute*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/04/074MSPE.png"
+  },
+  {
+    "number": "075",
+    "name": "Graveler",
+    "kana": "ゴローン",
+    "hepburn": "Gorōn",
+    "trademark": "Golone",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/00/075MSPE.png"
+  },
+  {
+    "number": "076",
+    "name": "Golem",
+    "kana": "ゴローニャ",
+    "hepburn": "Gorōnya",
+    "trademark": "Golonya",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a9/076MSPE.png"
+  },
+  {
+    "number": "077",
+    "name": "Ponyta",
+    "kana": "ポニータ",
+    "hepburn": "Ponīta",
+    "trademark": "Ponyta",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/30/077MS8.png"
+  },
+  {
+    "number": "078",
+    "name": "Rapidash",
+    "kana": "ギャロップ",
+    "hepburn": "Gyaroppu",
+    "trademark": "Gallop",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2b/078MS8.png"
+  },
+  {
+    "number": "079",
+    "name": "Slowpoke",
+    "kana": "ヤドン",
+    "hepburn": "Yadon",
+    "trademark": "Yadon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/31/079MS8.png"
+  },
+  {
+    "number": "080",
+    "name": "Slowbro",
+    "kana": "ヤドラン",
+    "hepburn": "Yadoran",
+    "trademark": "Yadoran",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cb/080MS8.png"
+  },
+  {
+    "number": "081",
+    "name": "Magnemite",
+    "kana": "コイル",
+    "hepburn": "Koiru",
+    "trademark": "Coil",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ea/081MS8.png"
+  },
+  {
+    "number": "082",
+    "name": "Magneton",
+    "kana": "レアコイル",
+    "hepburn": "Reakoiru",
+    "trademark": "Rarecoil",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/da/082MS8.png"
+  },
+  {
+    "number": "083",
+    "name": "Farfetch'd",
+    "kana": "カモネギ",
+    "hepburn": "Kamonegi",
+    "trademark": "Kamonegi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/23/083MS8.png"
+  },
+  {
+    "number": "084",
+    "name": "Doduo",
+    "kana": "ドードー",
+    "hepburn": "Dōdō",
+    "trademark": "Dodo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/58/084MSPE.png"
+  },
+  {
+    "number": "085",
+    "name": "Dodrio",
+    "kana": "ドードリオ",
+    "hepburn": "Dōdorio",
+    "trademark": "Dodorio",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3b/085MSPE.png"
+  },
+  {
+    "number": "086",
+    "name": "Seel",
+    "kana": "パウワウ",
+    "hepburn": "Pauwau",
+    "trademark": "Pawou*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/37/086MSPE.png"
+  },
+  {
+    "number": "087",
+    "name": "Dewgong",
+    "kana": "ジュゴン",
+    "hepburn": "Jugon",
+    "trademark": "Jugon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a7/087MSPE.png"
+  },
+  {
+    "number": "088",
+    "name": "Grimer",
+    "kana": "ベトベター",
+    "hepburn": "Betobetā",
+    "trademark": "Betbeter*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/63/088MSPE.png"
+  },
+  {
+    "number": "089",
+    "name": "Muk",
+    "kana": "ベトベトン",
+    "hepburn": "Betobeton",
+    "trademark": "Betbeton*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d1/089MSPE.png"
+  },
+  {
+    "number": "090",
+    "name": "Shellder",
+    "kana": "シェルダー",
+    "hepburn": "Sherudā",
+    "trademark": "Shellder",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8f/090MS8.png"
+  },
+  {
+    "number": "091",
+    "name": "Cloyster",
+    "kana": "パルシェン",
+    "hepburn": "Parushen",
+    "trademark": "Parshen",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/ce/091MS8.png"
+  },
+  {
+    "number": "092",
+    "name": "Gastly",
+    "kana": "ゴース",
+    "hepburn": "Gōsu",
+    "trademark": "Ghos",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8e/092MS8.png"
+  },
+  {
+    "number": "093",
+    "name": "Haunter",
+    "kana": "ゴースト",
+    "hepburn": "Gōsuto",
+    "trademark": "Ghost",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e8/093MS8.png"
+  },
+  {
+    "number": "094",
+    "name": "Gengar",
+    "kana": "ゲンガー",
+    "hepburn": "Gengā",
+    "trademark": "Gangar*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/58/094MS8.png"
+  },
+  {
+    "number": "095",
+    "name": "Onix",
+    "kana": "イワーク",
+    "hepburn": "Iwāku",
+    "trademark": "Iwark",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5e/095MS8.png"
+  },
+  {
+    "number": "096",
+    "name": "Drowzee",
+    "kana": "スリープ",
+    "hepburn": "Surīpu",
+    "trademark": "Sleepe*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/12/096MSPE.png"
+  },
+  {
+    "number": "097",
+    "name": "Hypno",
+    "kana": "スリーパー",
+    "hepburn": "Surīpā",
+    "trademark": "Sleeper",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/64/097MSPE.png"
+  },
+  {
+    "number": "098",
+    "name": "Krabby",
+    "kana": "クラブ",
+    "hepburn": "Kurabu",
+    "trademark": "Crab",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/be/098MS8.png"
+  },
+  {
+    "number": "099",
+    "name": "Kingler",
+    "kana": "キングラー",
+    "hepburn": "Kingurā",
+    "trademark": "Kingler*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fd/099MS8.png"
+  },
+  {
+    "number": "100",
+    "name": "Voltorb",
+    "kana": "ビリリダマ",
+    "hepburn": "Biriridama",
+    "trademark": "Biriridama",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/31/100MSPE.png"
+  },
+  {
+    "number": "101",
+    "name": "Electrode",
+    "kana": "マルマイン",
+    "hepburn": "Marumain",
+    "trademark": "Marumine*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/31/101MSPE.png"
+  },
+  {
+    "number": "102",
+    "name": "Exeggcute",
+    "kana": "タマタマ",
+    "hepburn": "Tamatama",
+    "trademark": "Tamatama",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/07/102MS8.png"
+  },
+  {
+    "number": "103",
+    "name": "Exeggutor",
+    "kana": "ナッシー",
+    "hepburn": "Nasshī",
+    "trademark": "Nassy*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fb/103MS8.png"
+  },
+  {
+    "number": "104",
+    "name": "Cubone",
+    "kana": "カラカラ",
+    "hepburn": "Karakara",
+    "trademark": "Karakara",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/88/104MS8.png"
+  },
+  {
+    "number": "105",
+    "name": "Marowak",
+    "kana": "ガラガラ",
+    "hepburn": "Garagara",
+    "trademark": "Garagara",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/72/105MS8.png"
+  },
+  {
+    "number": "106",
+    "name": "Hitmonlee",
+    "kana": "サワムラー",
+    "hepburn": "Sawamurā",
+    "trademark": "Sawamular",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5d/106MS8.png"
+  },
+  {
+    "number": "107",
+    "name": "Hitmonchan",
+    "kana": "エビワラー",
+    "hepburn": "Ebiwarā",
+    "trademark": "Ebiwalar",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/81/107MS8.png"
+  },
+  {
+    "number": "108",
+    "name": "Lickitung",
+    "kana": "ベロリンガ",
+    "hepburn": "Beroringa",
+    "trademark": "Beroringa",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/32/108MS8.png"
+  },
+  {
+    "number": "109",
+    "name": "Koffing",
+    "kana": "ドガース",
+    "hepburn": "Dogāsu",
+    "trademark": "Dogars",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c7/109MS8.png"
+  },
+  {
+    "number": "110",
+    "name": "Weezing",
+    "kana": "マタドガス",
+    "hepburn": "Matadogasu",
+    "trademark": "Matadogas*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/58/110MS8.png"
+  },
+  {
+    "number": "111",
+    "name": "Rhyhorn",
+    "kana": "サイホーン",
+    "hepburn": "Saihōn",
+    "trademark": "Sihorn*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e1/111MS8.png"
+  },
+  {
+    "number": "112",
+    "name": "Rhydon",
+    "kana": "サイドン",
+    "hepburn": "Saidon",
+    "trademark": "Sidon*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/04/112MS8.png"
+  },
+  {
+    "number": "113",
+    "name": "Chansey",
+    "kana": "ラッキー",
+    "hepburn": "Rakkī",
+    "trademark": "Lucky",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f1/113MS8.png"
+  },
+  {
+    "number": "114",
+    "name": "Tangela",
+    "kana": "モンジャラ",
+    "hepburn": "Monjara",
+    "trademark": "Monjara",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b3/114MS8.png"
+  },
+  {
+    "number": "115",
+    "name": "Kangaskhan",
+    "kana": "ガルーラ",
+    "hepburn": "Garūra",
+    "trademark": "Garura",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/74/115MS8.png"
+  },
+  {
+    "number": "116",
+    "name": "Horsea",
+    "kana": "タッツー",
+    "hepburn": "Tattsū",
+    "trademark": "Tattu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/65/116MS8.png"
+  },
+  {
+    "number": "117",
+    "name": "Seadra",
+    "kana": "シードラ",
+    "hepburn": "Shīdora",
+    "trademark": "Seadra",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ae/117MS8.png"
+  },
+  {
+    "number": "118",
+    "name": "Goldeen",
+    "kana": "トサキント",
+    "hepburn": "Tosakinto",
+    "trademark": "Tosakinto",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/71/118MS8.png"
+  },
+  {
+    "number": "119",
+    "name": "Seaking",
+    "kana": "アズマオウ",
+    "hepburn": "Azumaō",
+    "trademark": "Azumao*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/59/119MS8.png"
+  },
+  {
+    "number": "120",
+    "name": "Staryu",
+    "kana": "ヒトデマン",
+    "hepburn": "Hitodeman",
+    "trademark": "Hitodeman",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/04/120MS8.png"
+  },
+  {
+    "number": "121",
+    "name": "Starmie",
+    "kana": "スターミー",
+    "hepburn": "Sutāmī",
+    "trademark": "Starmie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2b/121MS8.png"
+  },
+  {
+    "number": "122",
+    "name": "Mr. Mime",
+    "kana": "バリヤード",
+    "hepburn": "Bariyādo",
+    "trademark": "Barrierd",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e6/122MS8.png"
+  },
+  {
+    "number": "123",
+    "name": "Scyther",
+    "kana": "ストライク",
+    "hepburn": "Sutoraiku",
+    "trademark": "Strike",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e6/123MS8.png"
+  },
+  {
+    "number": "124",
+    "name": "Jynx",
+    "kana": "ルージュラ",
+    "hepburn": "Rūjura",
+    "trademark": "Rougela",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/90/124MS8.png"
+  },
+  {
+    "number": "125",
+    "name": "Electabuzz",
+    "kana": "エレブー",
+    "hepburn": "Erebū",
+    "trademark": "Eleboo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f0/125MS8.png"
+  },
+  {
+    "number": "126",
+    "name": "Magmar",
+    "kana": "ブーバー",
+    "hepburn": "Būbā",
+    "trademark": "Boober",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3c/126MS8.png"
+  },
+  {
+    "number": "127",
+    "name": "Pinsir",
+    "kana": "カイロス",
+    "hepburn": "Kairosu",
+    "trademark": "Kailios",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b8/127MS8.png"
+  },
+  {
+    "number": "128",
+    "name": "Tauros",
+    "kana": "ケンタロス",
+    "hepburn": "Kentarosu",
+    "trademark": "Kentauros",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/be/128MS8.png"
+  },
+  {
+    "number": "129",
+    "name": "Magikarp",
+    "kana": "コイキング",
+    "hepburn": "Koikingu",
+    "trademark": "Koiking",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d0/129MS8.png"
+  },
+  {
+    "number": "130",
+    "name": "Gyarados",
+    "kana": "ギャラドス",
+    "hepburn": "Gyaradosu",
+    "trademark": "Gyarados*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8e/130MS8.png"
+  },
+  {
+    "number": "131",
+    "name": "Lapras",
+    "kana": "ラプラス",
+    "hepburn": "Rapurasu",
+    "trademark": "Laplace",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c3/131MS8.png"
+  },
+  {
+    "number": "132",
+    "name": "Ditto",
+    "kana": "メタモン",
+    "hepburn": "Metamon",
+    "trademark": "Metamon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/92/132MS8.png"
+  },
+  {
+    "number": "133",
+    "name": "Eevee",
+    "kana": "イーブイ",
+    "hepburn": "Ībui",
+    "trademark": "Eievui",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/19/133MS8.png"
+  },
+  {
+    "number": "134",
+    "name": "Vaporeon",
+    "kana": "シャワーズ",
+    "hepburn": "Shawāzu",
+    "trademark": "Showers",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/ca/134MS8.png"
+  },
+  {
+    "number": "135",
+    "name": "Jolteon",
+    "kana": "サンダース",
+    "hepburn": "Sandāsu",
+    "trademark": "Thunders",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8c/135MS8.png"
+  },
+  {
+    "number": "136",
+    "name": "Flareon",
+    "kana": "ブースター",
+    "hepburn": "Būsutā",
+    "trademark": "Booster",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e5/136MS8.png"
+  },
+  {
+    "number": "137",
+    "name": "Porygon",
+    "kana": "ポリゴン",
+    "hepburn": "Porigon",
+    "trademark": "Porygon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bc/137MS8.png"
+  },
+  {
+    "number": "138",
+    "name": "Omanyte",
+    "kana": "オムナイト",
+    "hepburn": "Omunaito",
+    "trademark": "Omnite*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c2/138MS8.png"
+  },
+  {
+    "number": "139",
+    "name": "Omastar",
+    "kana": "オムスター",
+    "hepburn": "Omusutā",
+    "trademark": "Omstar*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/80/139MS8.png"
+  },
+  {
+    "number": "140",
+    "name": "Kabuto",
+    "kana": "カブト",
+    "hepburn": "Kabuto",
+    "trademark": "Kabuto",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a8/140MS8.png"
+  },
+  {
+    "number": "141",
+    "name": "Kabutops",
+    "kana": "カブトプス",
+    "hepburn": "Kabutopusu",
+    "trademark": "Kabutops*",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4c/141MS8.png"
+  },
+  {
+    "number": "142",
+    "name": "Aerodactyl",
+    "kana": "プテラ",
+    "hepburn": "Putera",
+    "trademark": "Ptera",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/90/142MS8.png"
+  },
+  {
+    "number": "143",
+    "name": "Snorlax",
+    "kana": "カビゴン",
+    "hepburn": "Kabigon",
+    "trademark": "Kabigon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5a/143MS8.png"
+  },
+  {
+    "number": "144",
+    "name": "Articuno",
+    "kana": "フリーザー",
+    "hepburn": "Furīzā",
+    "trademark": "Freezer",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a0/144MS8.png"
+  },
+  {
+    "number": "145",
+    "name": "Zapdos",
+    "kana": "サンダー",
+    "hepburn": "Sandā",
+    "trademark": "Thunder",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4b/145MS8.png"
+  },
+  {
+    "number": "146",
+    "name": "Moltres",
+    "kana": "ファイヤー",
+    "hepburn": "Faiyā",
+    "trademark": "Fire",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f6/146MS8.png"
+  },
+  {
+    "number": "147",
+    "name": "Dratini",
+    "kana": "ミニリュウ",
+    "hepburn": "Miniryū",
+    "trademark": "Miniryu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9d/147MS8.png"
+  },
+  {
+    "number": "148",
+    "name": "Dragonair",
+    "kana": "ハクリュー",
+    "hepburn": "Hakuryū",
+    "trademark": "Hakuryu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b7/148MS8.png"
+  },
+  {
+    "number": "149",
+    "name": "Dragonite",
+    "kana": "カイリュー",
+    "hepburn": "Kairyū",
+    "trademark": "Kairyu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/55/149MS8.png"
+  },
+  {
+    "number": "150",
+    "name": "Mewtwo",
+    "kana": "ミュウツー",
+    "hepburn": "Myūtsū",
+    "trademark": "Mewtwo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3e/150MS8.png"
+  },
+  {
+    "number": "151",
+    "name": "Mew",
+    "kana": "ミュウ",
+    "hepburn": "Myū",
+    "trademark": "Mew",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b0/151MS8.png"
+  },
+  {
+    "number": "152",
+    "name": "Chikorita",
+    "kana": "チコリータ",
+    "hepburn": "Chikorīta",
+    "trademark": "Chicorita",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/41/152MS6.png"
+  },
+  {
+    "number": "153",
+    "name": "Bayleef",
+    "kana": "ベイリーフ",
+    "hepburn": "Beirīfu",
+    "trademark": "Bayleaf",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/71/153MS6.png"
+  },
+  {
+    "number": "154",
+    "name": "Meganium",
+    "kana": "メガニウム",
+    "hepburn": "Meganiumu",
+    "trademark": "Meganium",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/23/154MS6.png"
+  },
+  {
+    "number": "155",
+    "name": "Cyndaquil",
+    "kana": "ヒノアラシ",
+    "hepburn": "Hinoarashi",
+    "trademark": "Hinoarashi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/96/155MS6.png"
+  },
+  {
+    "number": "156",
+    "name": "Quilava",
+    "kana": "マグマラシ",
+    "hepburn": "Magumarashi",
+    "trademark": "Magmarashi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/df/156MS6.png"
+  },
+  {
+    "number": "157",
+    "name": "Typhlosion",
+    "kana": "バクフーン",
+    "hepburn": "Bakufūn",
+    "trademark": "Bakphoon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/55/157MS6.png"
+  },
+  {
+    "number": "158",
+    "name": "Totodile",
+    "kana": "ワニノコ",
+    "hepburn": "Waninoko",
+    "trademark": "Waninoko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/39/158MS6.png"
+  },
+  {
+    "number": "159",
+    "name": "Croconaw",
+    "kana": "アリゲイツ",
+    "hepburn": "Arigeitsu",
+    "trademark": "Alligates",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b9/159MS6.png"
+  },
+  {
+    "number": "160",
+    "name": "Feraligatr",
+    "kana": "オーダイル",
+    "hepburn": "Ōdairu",
+    "trademark": "Ordile",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/99/160MS6.png"
+  },
+  {
+    "number": "161",
+    "name": "Sentret",
+    "kana": "オタチ",
+    "hepburn": "Otachi",
+    "trademark": "Otachi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/69/161MS6.png"
+  },
+  {
+    "number": "162",
+    "name": "Furret",
+    "kana": "オオタチ",
+    "hepburn": "Ōtachi",
+    "trademark": "Ootachi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/47/162MS6.png"
+  },
+  {
+    "number": "163",
+    "name": "Hoothoot",
+    "kana": "ホーホー",
+    "hepburn": "Hōhō",
+    "trademark": "Hoho",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ae/163MS8.png"
+  },
+  {
+    "number": "164",
+    "name": "Noctowl",
+    "kana": "ヨルノズク",
+    "hepburn": "Yorunozuku",
+    "trademark": "Yorunozuku",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/50/164MS8.png"
+  },
+  {
+    "number": "165",
+    "name": "Ledyba",
+    "kana": "レディバ",
+    "hepburn": "Rediba",
+    "trademark": "Rediba",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fe/165MS6.png"
+  },
+  {
+    "number": "166",
+    "name": "Ledian",
+    "kana": "レディアン",
+    "hepburn": "Redian",
+    "trademark": "Redian",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/10/166MS6.png"
+  },
+  {
+    "number": "167",
+    "name": "Spinarak",
+    "kana": "イトマル",
+    "hepburn": "Itomaru",
+    "trademark": "Itomaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/71/167MS6.png"
+  },
+  {
+    "number": "168",
+    "name": "Ariados",
+    "kana": "アリアドス",
+    "hepburn": "Ariadosu",
+    "trademark": "Ariados",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/96/168MS6.png"
+  },
+  {
+    "number": "169",
+    "name": "Crobat",
+    "kana": "クロバット",
+    "hepburn": "Kurobatto",
+    "trademark": "Crobat",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fa/169MS8.png"
+  },
+  {
+    "number": "170",
+    "name": "Chinchou",
+    "kana": "チョンチー",
+    "hepburn": "Chonchī",
+    "trademark": "Chonchie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ac/170MS8.png"
+  },
+  {
+    "number": "171",
+    "name": "Lanturn",
+    "kana": "ランターン",
+    "hepburn": "Rantān",
+    "trademark": "Lantern",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d4/171MS8.png"
+  },
+  {
+    "number": "172",
+    "name": "Pichu",
+    "kana": "ピチュー",
+    "hepburn": "Pichū",
+    "trademark": "Pichu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/be/172MS8.png"
+  },
+  {
+    "number": "173",
+    "name": "Cleffa",
+    "kana": "ピィ",
+    "hepburn": "Pī",
+    "trademark": "Py",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e0/173MS8.png"
+  },
+  {
+    "number": "174",
+    "name": "Igglybuff",
+    "kana": "ププリン",
+    "hepburn": "Pupurin",
+    "trademark": "Pupurin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/95/174MS8.png"
+  },
+  {
+    "number": "175",
+    "name": "Togepi",
+    "kana": "トゲピー",
+    "hepburn": "Togepī",
+    "trademark": "Togepy",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4c/175MS8.png"
+  },
+  {
+    "number": "176",
+    "name": "Togetic",
+    "kana": "トゲチック",
+    "hepburn": "Togechikku",
+    "trademark": "Togechick",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bc/176MS8.png"
+  },
+  {
+    "number": "177",
+    "name": "Natu",
+    "kana": "ネイティ",
+    "hepburn": "Neiti",
+    "trademark": "Naty",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7a/177MS8.png"
+  },
+  {
+    "number": "178",
+    "name": "Xatu",
+    "kana": "ネイティオ",
+    "hepburn": "Neitio",
+    "trademark": "Natio",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/88/178MS8.png"
+  },
+  {
+    "number": "179",
+    "name": "Mareep",
+    "kana": "メリープ",
+    "hepburn": "Merīpu",
+    "trademark": "Merriep",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e8/179MS6.png"
+  },
+  {
+    "number": "180",
+    "name": "Flaaffy",
+    "kana": "モココ",
+    "hepburn": "Mokoko",
+    "trademark": "Mokoko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/eb/180MS6.png"
+  },
+  {
+    "number": "181",
+    "name": "Ampharos",
+    "kana": "デンリュウ",
+    "hepburn": "Denryū",
+    "trademark": "Denryu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/89/181MS6.png"
+  },
+  {
+    "number": "182",
+    "name": "Bellossom",
+    "kana": "キレイハナ",
+    "hepburn": "Kireihana",
+    "trademark": "Kireihana",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c9/182MS8.png"
+  },
+  {
+    "number": "183",
+    "name": "Marill",
+    "kana": "マリル",
+    "hepburn": "Mariru",
+    "trademark": "Maril",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8f/183MS8.png"
+  },
+  {
+    "number": "184",
+    "name": "Azumarill",
+    "kana": "マリルリ",
+    "hepburn": "Mariruri",
+    "trademark": "Marilli",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cc/184MS8.png"
+  },
+  {
+    "number": "185",
+    "name": "Sudowoodo",
+    "kana": "ウソッキー",
+    "hepburn": "Usokkī",
+    "trademark": "Usokkie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b3/185MS8.png"
+  },
+  {
+    "number": "186",
+    "name": "Politoed",
+    "kana": "ニョロトノ",
+    "hepburn": "Nyorotono",
+    "trademark": "Nyorotono",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/ff/186MS8.png"
+  },
+  {
+    "number": "187",
+    "name": "Hoppip",
+    "kana": "ハネッコ",
+    "hepburn": "Hanekko",
+    "trademark": "Hanecco",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b3/187MS6.png"
+  },
+  {
+    "number": "188",
+    "name": "Skiploom",
+    "kana": "ポポッコ",
+    "hepburn": "Popokko",
+    "trademark": "Popocco",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d4/188MS6.png"
+  },
+  {
+    "number": "189",
+    "name": "Jumpluff",
+    "kana": "ワタッコ",
+    "hepburn": "Watakko",
+    "trademark": "Watacco",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5b/189MS6.png"
+  },
+  {
+    "number": "190",
+    "name": "Aipom",
+    "kana": "エイパム",
+    "hepburn": "Eipamu",
+    "trademark": "Eipam",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/92/190MS6.png"
+  },
+  {
+    "number": "191",
+    "name": "Sunkern",
+    "kana": "ヒマナッツ",
+    "hepburn": "Himanattsu",
+    "trademark": "Himanuts",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b6/191MS6.png"
+  },
+  {
+    "number": "192",
+    "name": "Sunflora",
+    "kana": "キマワリ",
+    "hepburn": "Kimawari",
+    "trademark": "Kimawari",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/89/192MS6.png"
+  },
+  {
+    "number": "193",
+    "name": "Yanma",
+    "kana": "ヤンヤンマ",
+    "hepburn": "Yan'yanma",
+    "trademark": "Yanyanma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1c/193MS6.png"
+  },
+  {
+    "number": "194",
+    "name": "Wooper",
+    "kana": "ウパー",
+    "hepburn": "Upā",
+    "trademark": "Upah",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cd/194MS8.png"
+  },
+  {
+    "number": "195",
+    "name": "Quagsire",
+    "kana": "ヌオー",
+    "hepburn": "Nuō",
+    "trademark": "Nuoh",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/15/195MS8.png"
+  },
+  {
+    "number": "196",
+    "name": "Espeon",
+    "kana": "エーフィ",
+    "hepburn": "Ēfi",
+    "trademark": "Eifie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/78/196MS8.png"
+  },
+  {
+    "number": "197",
+    "name": "Umbreon",
+    "kana": "ブラッキー",
+    "hepburn": "Burakkī",
+    "trademark": "Blacky",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f4/197MS8.png"
+  },
+  {
+    "number": "198",
+    "name": "Murkrow",
+    "kana": "ヤミカラス",
+    "hepburn": "Yamikarasu",
+    "trademark": "Yamikarasu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4f/198MS6.png"
+  },
+  {
+    "number": "199",
+    "name": "Slowking",
+    "kana": "ヤドキング",
+    "hepburn": "Yadokingu",
+    "trademark": "Yadoking",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f0/199MS8.png"
+  },
+  {
+    "number": "200",
+    "name": "Misdreavus",
+    "kana": "ムウマ",
+    "hepburn": "Mūma",
+    "trademark": "Muma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e3/200MS6.png"
+  },
+  {
+    "number": "201",
+    "name": "Unown",
+    "kana": "アンノーン",
+    "hepburn": "Annōn",
+    "trademark": "Unknown",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e7/201MS6.png"
+  },
+  {
+    "number": "202",
+    "name": "Wobbuffet",
+    "kana": "ソーナンス",
+    "hepburn": "Sōnansu",
+    "trademark": "Sonans",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/89/202MS8.png"
+  },
+  {
+    "number": "203",
+    "name": "Girafarig",
+    "kana": "キリンリキ",
+    "hepburn": "Kirinriki",
+    "trademark": "Kirinriki",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bc/203MS6.png"
+  },
+  {
+    "number": "204",
+    "name": "Pineco",
+    "kana": "クヌギダマ",
+    "hepburn": "Kunugidama",
+    "trademark": "Kunugidama",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/db/204MS6.png"
+  },
+  {
+    "number": "205",
+    "name": "Forretress",
+    "kana": "フォレトス",
+    "hepburn": "Foretosu",
+    "trademark": "Foretos",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c4/205MS6.png"
+  },
+  {
+    "number": "206",
+    "name": "Dunsparce",
+    "kana": "ノコッチ",
+    "hepburn": "Nokotchi",
+    "trademark": "Nokocchi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/19/206MS8.png"
+  },
+  {
+    "number": "207",
+    "name": "Gligar",
+    "kana": "グライガー",
+    "hepburn": "Guraigā",
+    "trademark": "Gliger",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/27/207MS6.png"
+  },
+  {
+    "number": "208",
+    "name": "Steelix",
+    "kana": "ハガネール",
+    "hepburn": "Haganēru",
+    "trademark": "Haganeil",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ee/208MS8.png"
+  },
+  {
+    "number": "209",
+    "name": "Snubbull",
+    "kana": "ブルー",
+    "hepburn": "Burū",
+    "trademark": "Bulu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d4/209MS6.png"
+  },
+  {
+    "number": "210",
+    "name": "Granbull",
+    "kana": "グランブル",
+    "hepburn": "Guranburu",
+    "trademark": "Granbulu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8e/210MS6.png"
+  },
+  {
+    "number": "211",
+    "name": "Qwilfish",
+    "kana": "ハリーセン",
+    "hepburn": "Harīsen",
+    "trademark": "Harysen",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a4/211MS8.png"
+  },
+  {
+    "number": "212",
+    "name": "Scizor",
+    "kana": "ハッサム",
+    "hepburn": "Hassamu",
+    "trademark": "Hassam",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bb/212MS8.png"
+  },
+  {
+    "number": "213",
+    "name": "Shuckle",
+    "kana": "ツボツボ",
+    "hepburn": "Tsubotsubo",
+    "trademark": "Tsubotsubo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/00/213MS8.png"
+  },
+  {
+    "number": "214",
+    "name": "Heracross",
+    "kana": "ヘラクロス",
+    "hepburn": "Herakurosu",
+    "trademark": "Heracros",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9d/214MS8.png"
+  },
+  {
+    "number": "215",
+    "name": "Sneasel",
+    "kana": "ニューラ",
+    "hepburn": "Nyūra",
+    "trademark": "Nyula",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ea/215MS8.png"
+  },
+  {
+    "number": "216",
+    "name": "Teddiursa",
+    "kana": "ヒメグマ",
+    "hepburn": "Himeguma",
+    "trademark": "Himeguma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/90/216MS6.png"
+  },
+  {
+    "number": "217",
+    "name": "Ursaring",
+    "kana": "リングマ",
+    "hepburn": "Ringuma",
+    "trademark": "Ringuma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6d/217MS6.png"
+  },
+  {
+    "number": "218",
+    "name": "Slugma",
+    "kana": "マグマッグ",
+    "hepburn": "Magumaggu",
+    "trademark": "Magmag",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8e/218MS6.png"
+  },
+  {
+    "number": "219",
+    "name": "Magcargo",
+    "kana": "マグカルゴ",
+    "hepburn": "Magukarugo",
+    "trademark": "Magcargot",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e3/219MS6.png"
+  },
+  {
+    "number": "220",
+    "name": "Swinub",
+    "kana": "ウリムー",
+    "hepburn": "Urimū",
+    "trademark": "Urimoo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/26/220MS8.png"
+  },
+  {
+    "number": "221",
+    "name": "Piloswine",
+    "kana": "イノムー",
+    "hepburn": "Inomū",
+    "trademark": "Inomoo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/01/221MS8.png"
+  },
+  {
+    "number": "222",
+    "name": "Corsola",
+    "kana": "サニーゴ",
+    "hepburn": "Sanīgo",
+    "trademark": "Sunnygo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/52/222MS8.png"
+  },
+  {
+    "number": "223",
+    "name": "Remoraid",
+    "kana": "テッポウオ",
+    "hepburn": "Teppouo",
+    "trademark": "Teppouo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cb/223MS8.png"
+  },
+  {
+    "number": "224",
+    "name": "Octillery",
+    "kana": "オクタン",
+    "hepburn": "Okutan",
+    "trademark": "Okutank",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f6/224MS8.png"
+  },
+  {
+    "number": "225",
+    "name": "Delibird",
+    "kana": "デリバード",
+    "hepburn": "Deribādo",
+    "trademark": "Delibird",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/90/225MS8.png"
+  },
+  {
+    "number": "226",
+    "name": "Mantine",
+    "kana": "マンタイン",
+    "hepburn": "Mantain",
+    "trademark": "Mantain",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/92/226MS8.png"
+  },
+  {
+    "number": "227",
+    "name": "Skarmory",
+    "kana": "エアームド",
+    "hepburn": "Eāmudo",
+    "trademark": "Airmd",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6b/227MS8.png"
+  },
+  {
+    "number": "228",
+    "name": "Houndour",
+    "kana": "デルビル",
+    "hepburn": "Derubiru",
+    "trademark": "Delvil",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bc/228MS6.png"
+  },
+  {
+    "number": "229",
+    "name": "Houndoom",
+    "kana": "ヘルガー",
+    "hepburn": "Herugā",
+    "trademark": "Hellgar",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/40/229MS6.png"
+  },
+  {
+    "number": "230",
+    "name": "Kingdra",
+    "kana": "キングドラ",
+    "hepburn": "Kingudora",
+    "trademark": "Kingdra",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7f/230MS8.png"
+  },
+  {
+    "number": "231",
+    "name": "Phanpy",
+    "kana": "ゴマゾウ",
+    "hepburn": "Gomazō",
+    "trademark": "Gomazou",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6c/231MS6.png"
+  },
+  {
+    "number": "232",
+    "name": "Donphan",
+    "kana": "ドンファン",
+    "hepburn": "Donfan",
+    "trademark": "Donfan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/85/232MS6.png"
+  },
+  {
+    "number": "233",
+    "name": "Porygon2",
+    "kana": "ポリゴン２",
+    "hepburn": "Porigon Tsū",
+    "trademark": "Porygon2",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a0/233MS8.png"
+  },
+  {
+    "number": "234",
+    "name": "Stantler",
+    "kana": "オドシシ",
+    "hepburn": "Odoshishi",
+    "trademark": "Odoshishi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/19/234MS6.png"
+  },
+  {
+    "number": "235",
+    "name": "Smeargle",
+    "kana": "ドーブル",
+    "hepburn": "Dōburu",
+    "trademark": "Doble",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/235MS6.png"
+  },
+  {
+    "number": "236",
+    "name": "Tyrogue",
+    "kana": "バルキー",
+    "hepburn": "Barukī",
+    "trademark": "Balkie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/dc/236MS8.png"
+  },
+  {
+    "number": "237",
+    "name": "Hitmontop",
+    "kana": "カポエラー",
+    "hepburn": "Kapoerā",
+    "trademark": "Kapoerer",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/93/237MS8.png"
+  },
+  {
+    "number": "238",
+    "name": "Smoochum",
+    "kana": "ムチュール",
+    "hepburn": "Muchūru",
+    "trademark": "Muchul",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0e/238MS8.png"
+  },
+  {
+    "number": "239",
+    "name": "Elekid",
+    "kana": "エレキッド",
+    "hepburn": "Erekiddo",
+    "trademark": "Elekid",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/33/239MS8.png"
+  },
+  {
+    "number": "240",
+    "name": "Magby",
+    "kana": "ブビィ",
+    "hepburn": "Bubī",
+    "trademark": "Buby",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/06/240MS8.png"
+  },
+  {
+    "number": "241",
+    "name": "Miltank",
+    "kana": "ミルタンク",
+    "hepburn": "Mirutanku",
+    "trademark": "Miltank",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/73/241MS8.png"
+  },
+  {
+    "number": "242",
+    "name": "Blissey",
+    "kana": "ハピナス",
+    "hepburn": "Hapinasu",
+    "trademark": "Happinas",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d6/242MS8.png"
+  },
+  {
+    "number": "243",
+    "name": "Raikou",
+    "kana": "ライコウ",
+    "hepburn": "Raikō",
+    "trademark": "Raikou",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/27/243MS8.png"
+  },
+  {
+    "number": "244",
+    "name": "Entei",
+    "kana": "エンテイ",
+    "hepburn": "Entei",
+    "trademark": "Entei",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/81/244MS8.png"
+  },
+  {
+    "number": "245",
+    "name": "Suicune",
+    "kana": "スイクン",
+    "hepburn": "Suikun",
+    "trademark": "Suicune",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0b/245MS8.png"
+  },
+  {
+    "number": "246",
+    "name": "Larvitar",
+    "kana": "ヨーギラス",
+    "hepburn": "Yōgirasu",
+    "trademark": "Yogiras",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/47/246MS8.png"
+  },
+  {
+    "number": "247",
+    "name": "Pupitar",
+    "kana": "サナギラス",
+    "hepburn": "Sanagirasu",
+    "trademark": "Sanagiras",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/23/247MS8.png"
+  },
+  {
+    "number": "248",
+    "name": "Tyranitar",
+    "kana": "バンギラス",
+    "hepburn": "Bangirasu",
+    "trademark": "Bangiras",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/30/248MS8.png"
+  },
+  {
+    "number": "249",
+    "name": "Lugia",
+    "kana": "ルギア",
+    "hepburn": "Rugia",
+    "trademark": "Lugia",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1e/249MS8.png"
+  },
+  {
+    "number": "250",
+    "name": "Ho-Oh",
+    "kana": "ホウオウ",
+    "hepburn": "Hōō",
+    "trademark": "Houou",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c4/250MS8.png"
+  },
+  {
+    "number": "251",
+    "name": "Celebi",
+    "kana": "セレビィ",
+    "hepburn": "Serebī",
+    "trademark": "Celebi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/26/251MS8.png"
+  },
+  {
+    "number": "252",
+    "name": "Treecko",
+    "kana": "キモリ",
+    "hepburn": "Kimori",
+    "trademark": "Kimori",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e0/252MS8.png"
+  },
+  {
+    "number": "253",
+    "name": "Grovyle",
+    "kana": "ジュプトル",
+    "hepburn": "Juputoru",
+    "trademark": "Juptile",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/43/253MS8.png"
+  },
+  {
+    "number": "254",
+    "name": "Sceptile",
+    "kana": "ジュカイン",
+    "hepburn": "Jukain",
+    "trademark": "Jukain",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/67/254MS8.png"
+  },
+  {
+    "number": "255",
+    "name": "Torchic",
+    "kana": "アチャモ",
+    "hepburn": "Achamo",
+    "trademark": "Achamo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/79/255MS8.png"
+  },
+  {
+    "number": "256",
+    "name": "Combusken",
+    "kana": "ワカシャモ",
+    "hepburn": "Wakashamo",
+    "trademark": "Wakasyamo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cc/256MS8.png"
+  },
+  {
+    "number": "257",
+    "name": "Blaziken",
+    "kana": "バシャーモ",
+    "hepburn": "Bashāmo",
+    "trademark": "Bursyamo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d5/257MS8.png"
+  },
+  {
+    "number": "258",
+    "name": "Mudkip",
+    "kana": "ミズゴロウ",
+    "hepburn": "Mizugorō",
+    "trademark": "Mizugorou",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/43/258MS8.png"
+  },
+  {
+    "number": "259",
+    "name": "Marshtomp",
+    "kana": "ヌマクロー",
+    "hepburn": "Numakurō",
+    "trademark": "Numacraw",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/04/259MS8.png"
+  },
+  {
+    "number": "260",
+    "name": "Swampert",
+    "kana": "ラグラージ",
+    "hepburn": "Ragurāji",
+    "trademark": "Laglarge",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2b/260MS8.png"
+  },
+  {
+    "number": "261",
+    "name": "Poochyena",
+    "kana": "ポチエナ",
+    "hepburn": "Pochiena",
+    "trademark": "Pochiena",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/39/261MS6.png"
+  },
+  {
+    "number": "262",
+    "name": "Mightyena",
+    "kana": "グラエナ",
+    "hepburn": "Guraena",
+    "trademark": "Graena",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/ba/262MS6.png"
+  },
+  {
+    "number": "263",
+    "name": "Zigzagoon",
+    "kana": "ジグザグマ",
+    "hepburn": "Jiguzaguma",
+    "trademark": "Jiguzaguma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/47/263MS8.png"
+  },
+  {
+    "number": "264",
+    "name": "Linoone",
+    "kana": "マッスグマ",
+    "hepburn": "Massuguma",
+    "trademark": "Massuguma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c1/264MS8.png"
+  },
+  {
+    "number": "265",
+    "name": "Wurmple",
+    "kana": "ケムッソ",
+    "hepburn": "Kemusso",
+    "trademark": "Kemusso",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f4/265MS6.png"
+  },
+  {
+    "number": "266",
+    "name": "Silcoon",
+    "kana": "カラサリス",
+    "hepburn": "Karasarisu",
+    "trademark": "Karasalis",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/76/266MS6.png"
+  },
+  {
+    "number": "267",
+    "name": "Beautifly",
+    "kana": "アゲハント",
+    "hepburn": "Agehanto",
+    "trademark": "Agehunt",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0e/267MS6.png"
+  },
+  {
+    "number": "268",
+    "name": "Cascoon",
+    "kana": "マユルド",
+    "hepburn": "Mayurudo",
+    "trademark": "Mayuld",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/70/268MS6.png"
+  },
+  {
+    "number": "269",
+    "name": "Dustox",
+    "kana": "ドクケイル",
+    "hepburn": "Dokukeiru",
+    "trademark": "Dokucale",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ac/269MS6.png"
+  },
+  {
+    "number": "270",
+    "name": "Lotad",
+    "kana": "ハスボー",
+    "hepburn": "Hasubō",
+    "trademark": "Hassboh",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/19/270MS8.png"
+  },
+  {
+    "number": "271",
+    "name": "Lombre",
+    "kana": "ハスブレロ",
+    "hepburn": "Hasuburero",
+    "trademark": "Hasubrero",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/61/271MS8.png"
+  },
+  {
+    "number": "272",
+    "name": "Ludicolo",
+    "kana": "ルンパッパ",
+    "hepburn": "Runpappa",
+    "trademark": "Runpappa",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e4/272MS8.png"
+  },
+  {
+    "number": "273",
+    "name": "Seedot",
+    "kana": "タネボー",
+    "hepburn": "Tanebō",
+    "trademark": "Taneboh",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/da/273MS8.png"
+  },
+  {
+    "number": "274",
+    "name": "Nuzleaf",
+    "kana": "コノハナ",
+    "hepburn": "Konohana",
+    "trademark": "Konohana",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8e/274MS8.png"
+  },
+  {
+    "number": "275",
+    "name": "Shiftry",
+    "kana": "ダーテング",
+    "hepburn": "Dātengu",
+    "trademark": "Dirteng",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c7/275MS8.png"
+  },
+  {
+    "number": "276",
+    "name": "Taillow",
+    "kana": "スバメ",
+    "hepburn": "Subame",
+    "trademark": "Subame",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2f/276MS6.png"
+  },
+  {
+    "number": "277",
+    "name": "Swellow",
+    "kana": "オオスバメ",
+    "hepburn": "Ōsubame",
+    "trademark": "Ohsubame",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/65/277MS6.png"
+  },
+  {
+    "number": "278",
+    "name": "Wingull",
+    "kana": "キャモメ",
+    "hepburn": "Kyamome",
+    "trademark": "Camome",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/20/278MS8.png"
+  },
+  {
+    "number": "279",
+    "name": "Pelipper",
+    "kana": "ペリッパー",
+    "hepburn": "Perippā",
+    "trademark": "Pelipper",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/33/279MS8.png"
+  },
+  {
+    "number": "280",
+    "name": "Ralts",
+    "kana": "ラルトス",
+    "hepburn": "Rarutosu",
+    "trademark": "Ralts",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e8/280MS8.png"
+  },
+  {
+    "number": "281",
+    "name": "Kirlia",
+    "kana": "キルリア",
+    "hepburn": "Kiruria",
+    "trademark": "Kirlia",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/51/281MS8.png"
+  },
+  {
+    "number": "282",
+    "name": "Gardevoir",
+    "kana": "サーナイト",
+    "hepburn": "Sānaito",
+    "trademark": "Sirnight",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/06/282MS8.png"
+  },
+  {
+    "number": "283",
+    "name": "Surskit",
+    "kana": "アメタマ",
+    "hepburn": "Ametama",
+    "trademark": "Ametama",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/09/283MS6.png"
+  },
+  {
+    "number": "284",
+    "name": "Masquerain",
+    "kana": "アメモース",
+    "hepburn": "Amemōsu",
+    "trademark": "Amemoth",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d5/284MS6.png"
+  },
+  {
+    "number": "285",
+    "name": "Shroomish",
+    "kana": "キノココ",
+    "hepburn": "Kinokoko",
+    "trademark": "Kinococo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/70/285MS6.png"
+  },
+  {
+    "number": "286",
+    "name": "Breloom",
+    "kana": "キノガッサ",
+    "hepburn": "Kinogassa",
+    "trademark": "Kinogassa",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8c/286MS6.png"
+  },
+  {
+    "number": "287",
+    "name": "Slakoth",
+    "kana": "ナマケロ",
+    "hepburn": "Namakero",
+    "trademark": "Namakero",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/287MS6.png"
+  },
+  {
+    "number": "288",
+    "name": "Vigoroth",
+    "kana": "ヤルキモノ",
+    "hepburn": "Yarukimono",
+    "trademark": "Yarukimono",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e6/288MS6.png"
+  },
+  {
+    "number": "289",
+    "name": "Slaking",
+    "kana": "ケッキング",
+    "hepburn": "Kekkingu",
+    "trademark": "Kekking",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f3/289MS6.png"
+  },
+  {
+    "number": "290",
+    "name": "Nincada",
+    "kana": "ツチニン",
+    "hepburn": "Tsuchinin",
+    "trademark": "Tutinin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6e/290MS8.png"
+  },
+  {
+    "number": "291",
+    "name": "Ninjask",
+    "kana": "テッカニン",
+    "hepburn": "Tekkanin",
+    "trademark": "Tekkanin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c8/291MS8.png"
+  },
+  {
+    "number": "292",
+    "name": "Shedinja",
+    "kana": "ヌケニン",
+    "hepburn": "Nukenin",
+    "trademark": "Nukenin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/79/292MS8.png"
+  },
+  {
+    "number": "293",
+    "name": "Whismur",
+    "kana": "ゴニョニョ",
+    "hepburn": "Gonyonyo",
+    "trademark": "Gonyonyo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bb/293MS8.png"
+  },
+  {
+    "number": "294",
+    "name": "Loudred",
+    "kana": "ドゴーム",
+    "hepburn": "Dogōmu",
+    "trademark": "Dogohmb",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/69/294MS8.png"
+  },
+  {
+    "number": "295",
+    "name": "Exploud",
+    "kana": "バクオング",
+    "hepburn": "Bakuongu",
+    "trademark": "Bakuong",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/26/295MS8.png"
+  },
+  {
+    "number": "296",
+    "name": "Makuhita",
+    "kana": "マクノシタ",
+    "hepburn": "Makunoshita",
+    "trademark": "Makunoshita",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d9/296MS6.png"
+  },
+  {
+    "number": "297",
+    "name": "Hariyama",
+    "kana": "ハリテヤマ",
+    "hepburn": "Hariteyama",
+    "trademark": "Hariteyama",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/63/297MS6.png"
+  },
+  {
+    "number": "298",
+    "name": "Azurill",
+    "kana": "ルリリ",
+    "hepburn": "Ruriri",
+    "trademark": "Ruriri",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c7/298MS8.png"
+  },
+  {
+    "number": "299",
+    "name": "Nosepass",
+    "kana": "ノズパス",
+    "hepburn": "Nozupasu",
+    "trademark": "Nosepass",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/65/299MS6.png"
+  },
+  {
+    "number": "300",
+    "name": "Skitty",
+    "kana": "エネコ",
+    "hepburn": "Eneko",
+    "trademark": "Eneco",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ad/300MS6.png"
+  },
+  {
+    "number": "301",
+    "name": "Delcatty",
+    "kana": "エネコロロ",
+    "hepburn": "Enekororo",
+    "trademark": "Enekororo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ea/301MS6.png"
+  },
+  {
+    "number": "302",
+    "name": "Sableye",
+    "kana": "ヤミラミ",
+    "hepburn": "Yamirami",
+    "trademark": "Yamirami",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0d/302MS8.png"
+  },
+  {
+    "number": "303",
+    "name": "Mawile",
+    "kana": "クチート",
+    "hepburn": "Kuchīto",
+    "trademark": "Kucheat",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/92/303MS8.png"
+  },
+  {
+    "number": "304",
+    "name": "Aron",
+    "kana": "ココドラ",
+    "hepburn": "Kokodora",
+    "trademark": "Cokodora",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b5/304MS8.png"
+  },
+  {
+    "number": "305",
+    "name": "Lairon",
+    "kana": "コドラ",
+    "hepburn": "Kodora",
+    "trademark": "Kodora",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0d/305MS8.png"
+  },
+  {
+    "number": "306",
+    "name": "Aggron",
+    "kana": "ボスゴドラ",
+    "hepburn": "Bosugodora",
+    "trademark": "Bossgodora",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/68/306MS8.png"
+  },
+  {
+    "number": "307",
+    "name": "Meditite",
+    "kana": "アサナン",
+    "hepburn": "Asanan",
+    "trademark": "Asanan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1a/307MS6.png"
+  },
+  {
+    "number": "308",
+    "name": "Medicham",
+    "kana": "チャーレム",
+    "hepburn": "Chāremu",
+    "trademark": "Charem",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cf/308MS6.png"
+  },
+  {
+    "number": "309",
+    "name": "Electrike",
+    "kana": "ラクライ",
+    "hepburn": "Rakurai",
+    "trademark": "Rakurai",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4f/309MS8.png"
+  },
+  {
+    "number": "310",
+    "name": "Manectric",
+    "kana": "ライボルト",
+    "hepburn": "Raiboruto",
+    "trademark": "Livolt",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/47/310MS8.png"
+  },
+  {
+    "number": "311",
+    "name": "Plusle",
+    "kana": "プラスル",
+    "hepburn": "Purasuru",
+    "trademark": "Prasle",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f2/311MS6.png"
+  },
+  {
+    "number": "312",
+    "name": "Minun",
+    "kana": "マイナン",
+    "hepburn": "Mainan",
+    "trademark": "Minun",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/35/312MS6.png"
+  },
+  {
+    "number": "313",
+    "name": "Volbeat",
+    "kana": "バルビート",
+    "hepburn": "Barubīto",
+    "trademark": "Barubeat",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/313MS6.png"
+  },
+  {
+    "number": "314",
+    "name": "Illumise",
+    "kana": "イルミーゼ",
+    "hepburn": "Irumīze",
+    "trademark": "Illumise",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/23/314MS6.png"
+  },
+  {
+    "number": "315",
+    "name": "Roselia",
+    "kana": "ロゼリア",
+    "hepburn": "Rozeria",
+    "trademark": "Roselia",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f3/315MS8.png"
+  },
+  {
+    "number": "316",
+    "name": "Gulpin",
+    "kana": "ゴクリン",
+    "hepburn": "Gokurin",
+    "trademark": "Gokulin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/db/316MS6.png"
+  },
+  {
+    "number": "317",
+    "name": "Swalot",
+    "kana": "マルノーム",
+    "hepburn": "Marunōmu",
+    "trademark": "Marunoom",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ed/317MS6.png"
+  },
+  {
+    "number": "318",
+    "name": "Carvanha",
+    "kana": "キバニア",
+    "hepburn": "Kibania",
+    "trademark": "Kibanha",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/66/318MS8.png"
+  },
+  {
+    "number": "319",
+    "name": "Sharpedo",
+    "kana": "サメハダー",
+    "hepburn": "Samehadā",
+    "trademark": "Samehader",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cc/319MS8.png"
+  },
+  {
+    "number": "320",
+    "name": "Wailmer",
+    "kana": "ホエルコ",
+    "hepburn": "Hoeruko",
+    "trademark": "Hoeruko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2e/320MS8.png"
+  },
+  {
+    "number": "321",
+    "name": "Wailord",
+    "kana": "ホエルオー",
+    "hepburn": "Hoeruō",
+    "trademark": "Whaloh",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/70/321MS8.png"
+  },
+  {
+    "number": "322",
+    "name": "Numel",
+    "kana": "ドンメル",
+    "hepburn": "Donmeru",
+    "trademark": "Donmel",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/52/322MS6.png"
+  },
+  {
+    "number": "323",
+    "name": "Camerupt",
+    "kana": "バクーダ",
+    "hepburn": "Bakūda",
+    "trademark": "Bakuuda",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8e/323MS6.png"
+  },
+  {
+    "number": "324",
+    "name": "Torkoal",
+    "kana": "コータス",
+    "hepburn": "Kōtasu",
+    "trademark": "Cotoise",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/95/324MS8.png"
+  },
+  {
+    "number": "325",
+    "name": "Spoink",
+    "kana": "バネブー",
+    "hepburn": "Banebū",
+    "trademark": "Baneboo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ab/325MS6.png"
+  },
+  {
+    "number": "326",
+    "name": "Grumpig",
+    "kana": "ブーピッグ",
+    "hepburn": "Būpiggu",
+    "trademark": "Boopig",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/53/326MS6.png"
+  },
+  {
+    "number": "327",
+    "name": "Spinda",
+    "kana": "パッチール",
+    "hepburn": "Patchīru",
+    "trademark": "Patcheel",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f9/327MS6.png"
+  },
+  {
+    "number": "328",
+    "name": "Trapinch",
+    "kana": "ナックラー",
+    "hepburn": "Nakkurā",
+    "trademark": "Nuckrar",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/12/328MS8.png"
+  },
+  {
+    "number": "329",
+    "name": "Vibrava",
+    "kana": "ビブラーバ",
+    "hepburn": "Biburāba",
+    "trademark": "Vibrava",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c2/329MS8.png"
+  },
+  {
+    "number": "330",
+    "name": "Flygon",
+    "kana": "フライゴン",
+    "hepburn": "Furaigon",
+    "trademark": "Flygon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2d/330MS8.png"
+  },
+  {
+    "number": "331",
+    "name": "Cacnea",
+    "kana": "サボネア",
+    "hepburn": "Sabonea",
+    "trademark": "Sabonea",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/70/331MS6.png"
+  },
+  {
+    "number": "332",
+    "name": "Cacturne",
+    "kana": "ノクタス",
+    "hepburn": "Nokutasu",
+    "trademark": "Noctus",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/94/332MS6.png"
+  },
+  {
+    "number": "333",
+    "name": "Swablu",
+    "kana": "チルット",
+    "hepburn": "Chirutto",
+    "trademark": "Tyltto",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a7/333MS8.png"
+  },
+  {
+    "number": "334",
+    "name": "Altaria",
+    "kana": "チルタリス",
+    "hepburn": "Chirutarisu",
+    "trademark": "Tyltalis",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2e/334MS8.png"
+  },
+  {
+    "number": "335",
+    "name": "Zangoose",
+    "kana": "ザングース",
+    "hepburn": "Zangūsu",
+    "trademark": "Zangoose",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c6/335MS6.png"
+  },
+  {
+    "number": "336",
+    "name": "Seviper",
+    "kana": "ハブネーク",
+    "hepburn": "Habunēku",
+    "trademark": "Habunake",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a5/336MS6.png"
+  },
+  {
+    "number": "337",
+    "name": "Lunatone",
+    "kana": "ルナトーン",
+    "hepburn": "Runatōn",
+    "trademark": "Lunatone",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/45/337MS8.png"
+  },
+  {
+    "number": "338",
+    "name": "Solrock",
+    "kana": "ソルロック",
+    "hepburn": "Sorurokku",
+    "trademark": "Solrock",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b2/338MS8.png"
+  },
+  {
+    "number": "339",
+    "name": "Barboach",
+    "kana": "ドジョッチ",
+    "hepburn": "Dojotchi",
+    "trademark": "Dojoach",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ef/339MS8.png"
+  },
+  {
+    "number": "340",
+    "name": "Whiscash",
+    "kana": "ナマズン",
+    "hepburn": "Namazun",
+    "trademark": "Namazun",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/69/340MS8.png"
+  },
+  {
+    "number": "341",
+    "name": "Corphish",
+    "kana": "ヘイガニ",
+    "hepburn": "Heigani",
+    "trademark": "Heigani",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e2/341MS8.png"
+  },
+  {
+    "number": "342",
+    "name": "Crawdaunt",
+    "kana": "シザリガー",
+    "hepburn": "Shizarigā",
+    "trademark": "Shizariger",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3e/342MS8.png"
+  },
+  {
+    "number": "343",
+    "name": "Baltoy",
+    "kana": "ヤジロン",
+    "hepburn": "Yajiron",
+    "trademark": "Yajilon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/03/343MS8.png"
+  },
+  {
+    "number": "344",
+    "name": "Claydol",
+    "kana": "ネンドール",
+    "hepburn": "Nendōru",
+    "trademark": "Nendoll",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2a/344MS8.png"
+  },
+  {
+    "number": "345",
+    "name": "Lileep",
+    "kana": "リリーラ",
+    "hepburn": "Rirīra",
+    "trademark": "Lilyla",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b8/345MS8.png"
+  },
+  {
+    "number": "346",
+    "name": "Cradily",
+    "kana": "ユレイドル",
+    "hepburn": "Yureidoru",
+    "trademark": "Yuradle",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/34/346MS8.png"
+  },
+  {
+    "number": "347",
+    "name": "Anorith",
+    "kana": "アノプス",
+    "hepburn": "Anopusu",
+    "trademark": "Anopth",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f4/347MS8.png"
+  },
+  {
+    "number": "348",
+    "name": "Armaldo",
+    "kana": "アーマルド",
+    "hepburn": "Āmarudo",
+    "trademark": "Armaldo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3b/348MS8.png"
+  },
+  {
+    "number": "349",
+    "name": "Feebas",
+    "kana": "ヒンバス",
+    "hepburn": "Hinbasu",
+    "trademark": "Hinbass",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/349MS8.png"
+  },
+  {
+    "number": "350",
+    "name": "Milotic",
+    "kana": "ミロカロス",
+    "hepburn": "Mirokarosu",
+    "trademark": "Milokaross",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d9/350MS8.png"
+  },
+  {
+    "number": "351",
+    "name": "Castform",
+    "kana": "ポワルン",
+    "hepburn": "Powarun",
+    "trademark": "Powalen",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ef/351MS6.png"
+  },
+  {
+    "number": "352",
+    "name": "Kecleon",
+    "kana": "カクレオン",
+    "hepburn": "Kakureon",
+    "trademark": "Kakureon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/de/352MS6.png"
+  },
+  {
+    "number": "353",
+    "name": "Shuppet",
+    "kana": "カゲボウズ",
+    "hepburn": "Kagebōzu",
+    "trademark": "Kagebouzu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4a/353MS6.png"
+  },
+  {
+    "number": "354",
+    "name": "Banette",
+    "kana": "ジュペッタ",
+    "hepburn": "Jupetta",
+    "trademark": "Juppeta",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/79/354MS6.png"
+  },
+  {
+    "number": "355",
+    "name": "Duskull",
+    "kana": "ヨマワル",
+    "hepburn": "Yomawaru",
+    "trademark": "Yomawaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/33/355MS8.png"
+  },
+  {
+    "number": "356",
+    "name": "Dusclops",
+    "kana": "サマヨール",
+    "hepburn": "Samayōru",
+    "trademark": "Samayouru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0b/356MS8.png"
+  },
+  {
+    "number": "357",
+    "name": "Tropius",
+    "kana": "トロピウス",
+    "hepburn": "Toropiusu",
+    "trademark": "Tropius",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/77/357MS6.png"
+  },
+  {
+    "number": "358",
+    "name": "Chimecho",
+    "kana": "チリーン",
+    "hepburn": "Chirīn",
+    "trademark": "Chirean",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1a/358MS6.png"
+  },
+  {
+    "number": "359",
+    "name": "Absol",
+    "kana": "アブソル",
+    "hepburn": "Abusoru",
+    "trademark": "Absol",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/42/359MS8.png"
+  },
+  {
+    "number": "360",
+    "name": "Wynaut",
+    "kana": "ソーナノ",
+    "hepburn": "Sōnano",
+    "trademark": "Sohnano",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/97/360MS8.png"
+  },
+  {
+    "number": "361",
+    "name": "Snorunt",
+    "kana": "ユキワラシ",
+    "hepburn": "Yukiwarashi",
+    "trademark": "Yukiwarashi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/361MS8.png"
+  },
+  {
+    "number": "362",
+    "name": "Glalie",
+    "kana": "オニゴーリ",
+    "hepburn": "Onigōri",
+    "trademark": "Onigohri",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f3/362MS8.png"
+  },
+  {
+    "number": "363",
+    "name": "Spheal",
+    "kana": "タマザラシ",
+    "hepburn": "Tamazarashi",
+    "trademark": "Tamazarashi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cb/363MS8.png"
+  },
+  {
+    "number": "364",
+    "name": "Sealeo",
+    "kana": "トドグラー",
+    "hepburn": "Todogurā",
+    "trademark": "Todoggler",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/89/364MS8.png"
+  },
+  {
+    "number": "365",
+    "name": "Walrein",
+    "kana": "トドゼルガ",
+    "hepburn": "Todozeruga",
+    "trademark": "Todoseruga",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5b/365MS8.png"
+  },
+  {
+    "number": "366",
+    "name": "Clamperl",
+    "kana": "パールル",
+    "hepburn": "Pāruru",
+    "trademark": "Pearlulu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/67/366MS6.png"
+  },
+  {
+    "number": "367",
+    "name": "Huntail",
+    "kana": "ハンテール",
+    "hepburn": "Hantēru",
+    "trademark": "Huntail",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4d/367MS6.png"
+  },
+  {
+    "number": "368",
+    "name": "Gorebyss",
+    "kana": "サクラビス",
+    "hepburn": "Sakurabisu",
+    "trademark": "Sakurabyss",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/11/368MS6.png"
+  },
+  {
+    "number": "369",
+    "name": "Relicanth",
+    "kana": "ジーランス",
+    "hepburn": "Jīransu",
+    "trademark": "Glanth",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4a/369MS8.png"
+  },
+  {
+    "number": "370",
+    "name": "Luvdisc",
+    "kana": "ラブカス",
+    "hepburn": "Rabukasu",
+    "trademark": "Lovecus",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1b/370MS6.png"
+  },
+  {
+    "number": "371",
+    "name": "Bagon",
+    "kana": "タツベイ",
+    "hepburn": "Tatsubei",
+    "trademark": "Tatsubay",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a5/371MS8.png"
+  },
+  {
+    "number": "372",
+    "name": "Shelgon",
+    "kana": "コモルー",
+    "hepburn": "Komorū",
+    "trademark": "Komoruu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3c/372MS8.png"
+  },
+  {
+    "number": "373",
+    "name": "Salamence",
+    "kana": "ボーマンダ",
+    "hepburn": "Bōmanda",
+    "trademark": "Bohmander",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/30/373MS8.png"
+  },
+  {
+    "number": "374",
+    "name": "Beldum",
+    "kana": "ダンバル",
+    "hepburn": "Danbaru",
+    "trademark": "Dumbber",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6b/374MS8.png"
+  },
+  {
+    "number": "375",
+    "name": "Metang",
+    "kana": "メタング",
+    "hepburn": "Metangu",
+    "trademark": "Metang",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/375MS8.png"
+  },
+  {
+    "number": "376",
+    "name": "Metagross",
+    "kana": "メタグロス",
+    "hepburn": "Metagurosu",
+    "trademark": "Metagross",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/48/376MS8.png"
+  },
+  {
+    "number": "377",
+    "name": "Regirock",
+    "kana": "レジロック",
+    "hepburn": "Rejirokku",
+    "trademark": "Regirock",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/86/377MS8.png"
+  },
+  {
+    "number": "378",
+    "name": "Regice",
+    "kana": "レジアイス",
+    "hepburn": "Rejiaisu",
+    "trademark": "Regice",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ee/378MS8.png"
+  },
+  {
+    "number": "379",
+    "name": "Registeel",
+    "kana": "レジスチル",
+    "hepburn": "Rejisuchiru",
+    "trademark": "Registeel",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/16/379MS8.png"
+  },
+  {
+    "number": "380",
+    "name": "Latias",
+    "kana": "ラティアス",
+    "hepburn": "Ratiasu",
+    "trademark": "Latias",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/ba/380MS8.png"
+  },
+  {
+    "number": "381",
+    "name": "Latios",
+    "kana": "ラティオス",
+    "hepburn": "Ratiosu",
+    "trademark": "Latios",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4c/381MS8.png"
+  },
+  {
+    "number": "382",
+    "name": "Kyogre",
+    "kana": "カイオーガ",
+    "hepburn": "Kaiōga",
+    "trademark": "Kyogre",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a9/382MS8.png"
+  },
+  {
+    "number": "383",
+    "name": "Groudon",
+    "kana": "グラードン",
+    "hepburn": "Gurādon",
+    "trademark": "Groudon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cc/383MS8.png"
+  },
+  {
+    "number": "384",
+    "name": "Rayquaza",
+    "kana": "レックウザ",
+    "hepburn": "Rekkūza",
+    "trademark": "Rayquaza",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a4/384MS8.png"
+  },
+  {
+    "number": "385",
+    "name": "Jirachi",
+    "kana": "ジラーチ",
+    "hepburn": "Jirāchi",
+    "trademark": "Jirachi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/41/385MS8.png"
+  },
+  {
+    "number": "386",
+    "name": "Deoxys",
+    "kana": "デオキシス",
+    "hepburn": "Deokishisu",
+    "trademark": "Deoxys",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6a/386MS6.png"
+  },
+  {
+    "number": "387",
+    "name": "Turtwig",
+    "kana": "ナエトル",
+    "hepburn": "Naetoru",
+    "trademark": "Naetle",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/89/387MS6.png"
+  },
+  {
+    "number": "388",
+    "name": "Grotle",
+    "kana": "ハヤシガメ",
+    "hepburn": "Hayashigame",
+    "trademark": "Hayashigame",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1b/388MS6.png"
+  },
+  {
+    "number": "389",
+    "name": "Torterra",
+    "kana": "ドダイトス",
+    "hepburn": "Dodaitosu",
+    "trademark": "Dodaitose",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/61/389MS6.png"
+  },
+  {
+    "number": "390",
+    "name": "Chimchar",
+    "kana": "ヒコザル",
+    "hepburn": "Hikozaru",
+    "trademark": "Hikozaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3c/390MS6.png"
+  },
+  {
+    "number": "391",
+    "name": "Monferno",
+    "kana": "モウカザル",
+    "hepburn": "Mōkazaru",
+    "trademark": "Moukazaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bd/391MS6.png"
+  },
+  {
+    "number": "392",
+    "name": "Infernape",
+    "kana": "ゴウカザル",
+    "hepburn": "Gōkazaru",
+    "trademark": "Goukazaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5f/392MS6.png"
+  },
+  {
+    "number": "393",
+    "name": "Piplup",
+    "kana": "ポッチャマ",
+    "hepburn": "Potchama",
+    "trademark": "Pochama",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/30/393MS6.png"
+  },
+  {
+    "number": "394",
+    "name": "Prinplup",
+    "kana": "ポッタイシ",
+    "hepburn": "Pottaishi",
+    "trademark": "Pottaishi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/71/394MS6.png"
+  },
+  {
+    "number": "395",
+    "name": "Empoleon",
+    "kana": "エンペルト",
+    "hepburn": "Enperuto",
+    "trademark": "Emperte",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/13/395MS6.png"
+  },
+  {
+    "number": "396",
+    "name": "Starly",
+    "kana": "ムックル",
+    "hepburn": "Mukkuru",
+    "trademark": "Mukkuru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/72/396MS6.png"
+  },
+  {
+    "number": "397",
+    "name": "Staravia",
+    "kana": "ムクバード",
+    "hepburn": "Mukubādo",
+    "trademark": "Mukubird",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4e/397MS6.png"
+  },
+  {
+    "number": "398",
+    "name": "Staraptor",
+    "kana": "ムクホーク",
+    "hepburn": "Mukuhōku",
+    "trademark": "Mukuhawk",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0e/398MS6.png"
+  },
+  {
+    "number": "399",
+    "name": "Bidoof",
+    "kana": "ビッパ",
+    "hepburn": "Bippa",
+    "trademark": "Bippa",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9f/399MS6.png"
+  },
+  {
+    "number": "400",
+    "name": "Bibarel",
+    "kana": "ビーダル",
+    "hepburn": "Bīdaru",
+    "trademark": "Beadaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7d/400MS6.png"
+  },
+  {
+    "number": "401",
+    "name": "Kricketot",
+    "kana": "コロボーシ",
+    "hepburn": "Korobōshi",
+    "trademark": "Korobohshi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1c/401MS6.png"
+  },
+  {
+    "number": "402",
+    "name": "Kricketune",
+    "kana": "コロトック",
+    "hepburn": "Korotokku",
+    "trademark": "Korotock",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/402MS6.png"
+  },
+  {
+    "number": "403",
+    "name": "Shinx",
+    "kana": "コリンク",
+    "hepburn": "Korinku",
+    "trademark": "Kolink",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e5/403MS8.png"
+  },
+  {
+    "number": "404",
+    "name": "Luxio",
+    "kana": "ルクシオ",
+    "hepburn": "Rukushio",
+    "trademark": "Luxio",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/70/404MS8.png"
+  },
+  {
+    "number": "405",
+    "name": "Luxray",
+    "kana": "レントラー",
+    "hepburn": "Rentorā",
+    "trademark": "Rentorar",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/405MS8.png"
+  },
+  {
+    "number": "406",
+    "name": "Budew",
+    "kana": "スボミー",
+    "hepburn": "Subomī",
+    "trademark": "Subomie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/07/406MS8.png"
+  },
+  {
+    "number": "407",
+    "name": "Roserade",
+    "kana": "ロズレイド",
+    "hepburn": "Rozureido",
+    "trademark": "Roserade",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/55/407MS8.png"
+  },
+  {
+    "number": "408",
+    "name": "Cranidos",
+    "kana": "ズガイドス",
+    "hepburn": "Zugaidosu",
+    "trademark": "Zugaidos",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a0/408MS6.png"
+  },
+  {
+    "number": "409",
+    "name": "Rampardos",
+    "kana": "ラムパルド",
+    "hepburn": "Ramuparudo",
+    "trademark": "Rampald",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/14/409MS6.png"
+  },
+  {
+    "number": "410",
+    "name": "Shieldon",
+    "kana": "タテトプス",
+    "hepburn": "Tatetopusu",
+    "trademark": "Tatetops",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ec/410MS6.png"
+  },
+  {
+    "number": "411",
+    "name": "Bastiodon",
+    "kana": "トリデプス",
+    "hepburn": "Toridepusu",
+    "trademark": "Torideps",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d7/411MS6.png"
+  },
+  {
+    "number": "412",
+    "name": "Burmy",
+    "kana": "ミノムッチ",
+    "hepburn": "Minomutchi",
+    "trademark": "Minomucchi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/33/412MS6.png"
+  },
+  {
+    "number": "413",
+    "name": "Wormadam",
+    "kana": "ミノマダム",
+    "hepburn": "Minomadamu",
+    "trademark": "Minomadam",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ef/413MS6.png"
+  },
+  {
+    "number": "414",
+    "name": "Mothim",
+    "kana": "ガーメイル",
+    "hepburn": "Gāmeiru",
+    "trademark": "Gamale",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/03/414MS6.png"
+  },
+  {
+    "number": "415",
+    "name": "Combee",
+    "kana": "ミツハニー",
+    "hepburn": "Mitsuhanī",
+    "trademark": "Mitsuhoney",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/ce/415MS8.png"
+  },
+  {
+    "number": "416",
+    "name": "Vespiquen",
+    "kana": "ビークイン",
+    "hepburn": "Bīkuin",
+    "trademark": "Beequen",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5b/416MS8.png"
+  },
+  {
+    "number": "417",
+    "name": "Pachirisu",
+    "kana": "パチリス",
+    "hepburn": "Pachirisu",
+    "trademark": "Pachirisu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/46/417MS6.png"
+  },
+  {
+    "number": "418",
+    "name": "Buizel",
+    "kana": "ブイゼル",
+    "hepburn": "Buizeru",
+    "trademark": "Buoysel",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7a/418MS6.png"
+  },
+  {
+    "number": "419",
+    "name": "Floatzel",
+    "kana": "フローゼル",
+    "hepburn": "Furōzeru",
+    "trademark": "Floazel",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bb/419MS6.png"
+  },
+  {
+    "number": "420",
+    "name": "Cherubi",
+    "kana": "チェリンボ",
+    "hepburn": "Cherinbo",
+    "trademark": "Cherinbo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fb/420MS8.png"
+  },
+  {
+    "number": "421",
+    "name": "Cherrim",
+    "kana": "チェリム",
+    "hepburn": "Cherimu",
+    "trademark": "Cherrim",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/29/421MS8.png"
+  },
+  {
+    "number": "422",
+    "name": "Shellos",
+    "kana": "カラナクシ",
+    "hepburn": "Karanakushi",
+    "trademark": "Karanakushi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/dd/422MS8.png"
+  },
+  {
+    "number": "423",
+    "name": "Gastrodon",
+    "kana": "トリトドン",
+    "hepburn": "Toritodon",
+    "trademark": "Tritodon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/22/423MS8.png"
+  },
+  {
+    "number": "424",
+    "name": "Ambipom",
+    "kana": "エテボース",
+    "hepburn": "Etebōsu",
+    "trademark": "Eteboth",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/68/424MS6.png"
+  },
+  {
+    "number": "425",
+    "name": "Drifloon",
+    "kana": "フワンテ",
+    "hepburn": "Fuwante",
+    "trademark": "Fuwante",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c5/425MS8.png"
+  },
+  {
+    "number": "426",
+    "name": "Drifblim",
+    "kana": "フワライド",
+    "hepburn": "Fuwaraido",
+    "trademark": "Fuwaride",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/426MS8.png"
+  },
+  {
+    "number": "427",
+    "name": "Buneary",
+    "kana": "ミミロル",
+    "hepburn": "Mimiroru",
+    "trademark": "Mimirol",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/83/427MS8.png"
+  },
+  {
+    "number": "428",
+    "name": "Lopunny",
+    "kana": "ミミロップ",
+    "hepburn": "Mimiroppu",
+    "trademark": "Mimilop",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1e/428MS8.png"
+  },
+  {
+    "number": "429",
+    "name": "Mismagius",
+    "kana": "ムウマージ",
+    "hepburn": "Mūmāji",
+    "trademark": "Mumargi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d7/429MS6.png"
+  },
+  {
+    "number": "430",
+    "name": "Honchkrow",
+    "kana": "ドンカラス",
+    "hepburn": "Donkarasu",
+    "trademark": "Dongkarasu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a7/430MS6.png"
+  },
+  {
+    "number": "431",
+    "name": "Glameow",
+    "kana": "ニャルマー",
+    "hepburn": "Nyarumā",
+    "trademark": "Nyarmar",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/06/431MS6.png"
+  },
+  {
+    "number": "432",
+    "name": "Purugly",
+    "kana": "ブニャット",
+    "hepburn": "Bunyatto",
+    "trademark": "Bunyatto",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5a/432MS6.png"
+  },
+  {
+    "number": "433",
+    "name": "Chingling",
+    "kana": "リーシャン",
+    "hepburn": "Rīshan",
+    "trademark": "Lisyan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7b/433MS6.png"
+  },
+  {
+    "number": "434",
+    "name": "Stunky",
+    "kana": "スカンプー",
+    "hepburn": "Sukanpū",
+    "trademark": "Skunpuu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e8/434MS8.png"
+  },
+  {
+    "number": "435",
+    "name": "Skuntank",
+    "kana": "スカタンク",
+    "hepburn": "Sukatanku",
+    "trademark": "Skutank",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7c/435MS8.png"
+  },
+  {
+    "number": "436",
+    "name": "Bronzor",
+    "kana": "ドーミラー",
+    "hepburn": "Dōmirā",
+    "trademark": "Dohmirror",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5d/436MS8.png"
+  },
+  {
+    "number": "437",
+    "name": "Bronzong",
+    "kana": "ドータクン",
+    "hepburn": "Dōtakun",
+    "trademark": "Dohtakun",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1a/437MS8.png"
+  },
+  {
+    "number": "438",
+    "name": "Bonsly",
+    "kana": "ウソハチ",
+    "hepburn": "Usohachi",
+    "trademark": "Usohachi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/39/438MS8.png"
+  },
+  {
+    "number": "439",
+    "name": "Mime Jr.",
+    "kana": "マネネ",
+    "hepburn": "Manene",
+    "trademark": "Manene",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c3/439MS8.png"
+  },
+  {
+    "number": "440",
+    "name": "Happiny",
+    "kana": "ピンプク",
+    "hepburn": "Pinpuku",
+    "trademark": "Pinpuku",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/35/440MS8.png"
+  },
+  {
+    "number": "441",
+    "name": "Chatot",
+    "kana": "ペラップ",
+    "hepburn": "Perappu",
+    "trademark": "Perap",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f6/441MS6.png"
+  },
+  {
+    "number": "442",
+    "name": "Spiritomb",
+    "kana": "ミカルゲ",
+    "hepburn": "Mikaruge",
+    "trademark": "Mikaruge",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/16/442MS8.png"
+  },
+  {
+    "number": "443",
+    "name": "Gible",
+    "kana": "フカマル",
+    "hepburn": "Fukamaru",
+    "trademark": "Fukamaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9a/443MS8.png"
+  },
+  {
+    "number": "444",
+    "name": "Gabite",
+    "kana": "ガバイト",
+    "hepburn": "Gabaito",
+    "trademark": "Gabite",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/78/444MS8.png"
+  },
+  {
+    "number": "445",
+    "name": "Garchomp",
+    "kana": "ガブリアス",
+    "hepburn": "Gaburiasu",
+    "trademark": "Gaburias",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/ce/445MS8.png"
+  },
+  {
+    "number": "446",
+    "name": "Munchlax",
+    "kana": "ゴンベ",
+    "hepburn": "Gonbe",
+    "trademark": "Gonbe",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7e/446MS8.png"
+  },
+  {
+    "number": "447",
+    "name": "Riolu",
+    "kana": "リオル",
+    "hepburn": "Rioru",
+    "trademark": "Riolu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/51/447MS8.png"
+  },
+  {
+    "number": "448",
+    "name": "Lucario",
+    "kana": "ルカリオ",
+    "hepburn": "Rukario",
+    "trademark": "Lucario",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/40/448MS8.png"
+  },
+  {
+    "number": "449",
+    "name": "Hippopotas",
+    "kana": "ヒポポタス",
+    "hepburn": "Hipopotasu",
+    "trademark": "Hippopotas",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b6/449MS8.png"
+  },
+  {
+    "number": "450",
+    "name": "Hippowdon",
+    "kana": "カバルドン",
+    "hepburn": "Kabarudon",
+    "trademark": "Kabaldon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f6/450MS8.png"
+  },
+  {
+    "number": "451",
+    "name": "Skorupi",
+    "kana": "スコルピ",
+    "hepburn": "Sukorupi",
+    "trademark": "Scorupi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/88/451MS8.png"
+  },
+  {
+    "number": "452",
+    "name": "Drapion",
+    "kana": "ドラピオン",
+    "hepburn": "Dorapion",
+    "trademark": "Dorapion",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/39/452MS8.png"
+  },
+  {
+    "number": "453",
+    "name": "Croagunk",
+    "kana": "グレッグル",
+    "hepburn": "Guregguru",
+    "trademark": "Gureggru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/70/453MS8.png"
+  },
+  {
+    "number": "454",
+    "name": "Toxicroak",
+    "kana": "ドクロッグ",
+    "hepburn": "Dokuroggu",
+    "trademark": "Dokurog",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2f/454MS8.png"
+  },
+  {
+    "number": "455",
+    "name": "Carnivine",
+    "kana": "マスキッパ",
+    "hepburn": "Masukippa",
+    "trademark": "Muskippa",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/85/455MS6.png"
+  },
+  {
+    "number": "456",
+    "name": "Finneon",
+    "kana": "ケイコウオ",
+    "hepburn": "Keiko'uo",
+    "trademark": "Keikouo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/60/456MS6.png"
+  },
+  {
+    "number": "457",
+    "name": "Lumineon",
+    "kana": "ネオラント",
+    "hepburn": "Neoranto",
+    "trademark": "Neolant",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/54/457MS6.png"
+  },
+  {
+    "number": "458",
+    "name": "Mantyke",
+    "kana": "タマンタ",
+    "hepburn": "Tamanta",
+    "trademark": "Tamanta",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/21/458MS8.png"
+  },
+  {
+    "number": "459",
+    "name": "Snover",
+    "kana": "ユキカブリ",
+    "hepburn": "Yukikaburi",
+    "trademark": "Yukikaburi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1d/459MS8.png"
+  },
+  {
+    "number": "460",
+    "name": "Abomasnow",
+    "kana": "ユキノオー",
+    "hepburn": "Yukinoō",
+    "trademark": "Yukinooh",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/73/460MS8.png"
+  },
+  {
+    "number": "461",
+    "name": "Weavile",
+    "kana": "マニューラ",
+    "hepburn": "Manyūra",
+    "trademark": "Manyula",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/45/461MS8.png"
+  },
+  {
+    "number": "462",
+    "name": "Magnezone",
+    "kana": "ジバコイル",
+    "hepburn": "Jibakoiru",
+    "trademark": "Jibacoil",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8f/462MS8.png"
+  },
+  {
+    "number": "463",
+    "name": "Lickilicky",
+    "kana": "ベロベルト",
+    "hepburn": "Beroberuto",
+    "trademark": "Berobelt",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/dc/463MS8.png"
+  },
+  {
+    "number": "464",
+    "name": "Rhyperior",
+    "kana": "ドサイドン",
+    "hepburn": "Dosaidon",
+    "trademark": "Dosidon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d6/464MS8.png"
+  },
+  {
+    "number": "465",
+    "name": "Tangrowth",
+    "kana": "モジャンボ",
+    "hepburn": "Mojanbo",
+    "trademark": "Mojumbo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/65/465MS8.png"
+  },
+  {
+    "number": "466",
+    "name": "Electivire",
+    "kana": "エレキブル",
+    "hepburn": "Erekiburu",
+    "trademark": "Elekible",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/15/466MS8.png"
+  },
+  {
+    "number": "467",
+    "name": "Magmortar",
+    "kana": "ブーバーン",
+    "hepburn": "Būbān",
+    "trademark": "Booburn",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d1/467MS8.png"
+  },
+  {
+    "number": "468",
+    "name": "Togekiss",
+    "kana": "トゲキッス",
+    "hepburn": "Togekissu",
+    "trademark": "Togekiss",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/26/468MS8.png"
+  },
+  {
+    "number": "469",
+    "name": "Yanmega",
+    "kana": "メガヤンマ",
+    "hepburn": "Megayanma",
+    "trademark": "Megayanma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8c/469MS6.png"
+  },
+  {
+    "number": "470",
+    "name": "Leafeon",
+    "kana": "リーフィア",
+    "hepburn": "Rīfia",
+    "trademark": "Leafia",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ab/470MS8.png"
+  },
+  {
+    "number": "471",
+    "name": "Glaceon",
+    "kana": "グレイシア",
+    "hepburn": "Gureishia",
+    "trademark": "Glacia",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/87/471MS8.png"
+  },
+  {
+    "number": "472",
+    "name": "Gliscor",
+    "kana": "グライオン",
+    "hepburn": "Guraion",
+    "trademark": "Glion",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/63/472MS6.png"
+  },
+  {
+    "number": "473",
+    "name": "Mamoswine",
+    "kana": "マンムー",
+    "hepburn": "Manmū",
+    "trademark": "Mammoo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8c/473MS8.png"
+  },
+  {
+    "number": "474",
+    "name": "Porygon-Z",
+    "kana": "ポリゴンＺ",
+    "hepburn": "Porigon Zetto",
+    "trademark": "Porygon-Z",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/df/474MS8.png"
+  },
+  {
+    "number": "475",
+    "name": "Gallade",
+    "kana": "エルレイド",
+    "hepburn": "Erureido",
+    "trademark": "Erureido",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7c/475MS8.png"
+  },
+  {
+    "number": "476",
+    "name": "Probopass",
+    "kana": "ダイノーズ",
+    "hepburn": "Dainōzu",
+    "trademark": "Dainose",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/17/476MS6.png"
+  },
+  {
+    "number": "477",
+    "name": "Dusknoir",
+    "kana": "ヨノワール",
+    "hepburn": "Yonowāru",
+    "trademark": "Yonoir",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b7/477MS8.png"
+  },
+  {
+    "number": "478",
+    "name": "Froslass",
+    "kana": "ユキメノコ",
+    "hepburn": "Yukimenoko",
+    "trademark": "Yukimenoko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/64/478MS8.png"
+  },
+  {
+    "number": "479",
+    "name": "Rotom",
+    "kana": "ロトム",
+    "hepburn": "Rotomu",
+    "trademark": "Rotom",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/29/479MS8.png"
+  },
+  {
+    "number": "480",
+    "name": "Uxie",
+    "kana": "ユクシー",
+    "hepburn": "Yukushī",
+    "trademark": "Yuxie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5c/480MS8.png"
+  },
+  {
+    "number": "481",
+    "name": "Mesprit",
+    "kana": "エムリット",
+    "hepburn": "Emuritto",
+    "trademark": "Emrit",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/63/481MS8.png"
+  },
+  {
+    "number": "482",
+    "name": "Azelf",
+    "kana": "アグノム",
+    "hepburn": "Agunomu",
+    "trademark": "Agnome",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/43/482MS8.png"
+  },
+  {
+    "number": "483",
+    "name": "Dialga",
+    "kana": "ディアルガ",
+    "hepburn": "Diaruga",
+    "trademark": "Dialga",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f8/483MS8.png"
+  },
+  {
+    "number": "484",
+    "name": "Palkia",
+    "kana": "パルキア",
+    "hepburn": "Parukia",
+    "trademark": "Palkia",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f4/484MS8.png"
+  },
+  {
+    "number": "485",
+    "name": "Heatran",
+    "kana": "ヒードラン",
+    "hepburn": "Hīdoran",
+    "trademark": "Heatran",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/81/485MS8.png"
+  },
+  {
+    "number": "486",
+    "name": "Regigigas",
+    "kana": "レジギガス",
+    "hepburn": "Rejigigasu",
+    "trademark": "Regigigas",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/58/486MS8.png"
+  },
+  {
+    "number": "487",
+    "name": "Giratina",
+    "kana": "ギラティナ",
+    "hepburn": "Giratina",
+    "trademark": "Giratina",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ed/487MS8.png"
+  },
+  {
+    "number": "488",
+    "name": "Cresselia",
+    "kana": "クレセリア",
+    "hepburn": "Kureseria",
+    "trademark": "Cresselia",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2f/488MS8.png"
+  },
+  {
+    "number": "489",
+    "name": "Phione",
+    "kana": "フィオネ",
+    "hepburn": "Fione",
+    "trademark": "Phione",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6e/489MS6.png"
+  },
+  {
+    "number": "490",
+    "name": "Manaphy",
+    "kana": "マナフィ",
+    "hepburn": "Manafi",
+    "trademark": "Manaphy",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c2/490MS6.png"
+  },
+  {
+    "number": "491",
+    "name": "Darkrai",
+    "kana": "ダークライ",
+    "hepburn": "Dākurai",
+    "trademark": "Darkrai",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d4/491MS6.png"
+  },
+  {
+    "number": "492",
+    "name": "Shaymin",
+    "kana": "シェイミ",
+    "hepburn": "Sheimi",
+    "trademark": "Shaymin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2b/492MS6.png"
+  },
+  {
+    "number": "493",
+    "name": "Arceus",
+    "kana": "アルセウス",
+    "hepburn": "Aruseusu",
+    "trademark": "Arceus",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/04/493MS6.png"
+  },
+  {
+    "number": "494",
+    "name": "Victini",
+    "kana": "ビクティニ",
+    "hepburn": "Bikutini",
+    "trademark": "Victini",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/63/494MS8.png"
+  },
+  {
+    "number": "495",
+    "name": "Snivy",
+    "kana": "ツタージャ",
+    "hepburn": "Tsutāja",
+    "trademark": "Tsutarja",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/07/495MS6.png"
+  },
+  {
+    "number": "496",
+    "name": "Servine",
+    "kana": "ジャノビー",
+    "hepburn": "Janobī",
+    "trademark": "Janovy",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6d/496MS6.png"
+  },
+  {
+    "number": "497",
+    "name": "Serperior",
+    "kana": "ジャローダ",
+    "hepburn": "Jarōda",
+    "trademark": "Jalorda",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1c/497MS6.png"
+  },
+  {
+    "number": "498",
+    "name": "Tepig",
+    "kana": "ポカブ",
+    "hepburn": "Pokabu",
+    "trademark": "Pokabu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/74/498MS6.png"
+  },
+  {
+    "number": "499",
+    "name": "Pignite",
+    "kana": "チャオブー",
+    "hepburn": "Chaobū",
+    "trademark": "Chaoboo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ad/499MS6.png"
+  },
+  {
+    "number": "500",
+    "name": "Emboar",
+    "kana": "エンブオー",
+    "hepburn": "Enbuō",
+    "trademark": "Enbuoh",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ae/500MS6.png"
+  },
+  {
+    "number": "501",
+    "name": "Oshawott",
+    "kana": "ミジュマル",
+    "hepburn": "Mijumaru",
+    "trademark": "Mijumaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bb/501MS6.png"
+  },
+  {
+    "number": "502",
+    "name": "Dewott",
+    "kana": "フタチマル",
+    "hepburn": "Futachimaru",
+    "trademark": "Futachimaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f1/502MS6.png"
+  },
+  {
+    "number": "503",
+    "name": "Samurott",
+    "kana": "ダイケンキ",
+    "hepburn": "Daikenki",
+    "trademark": "Daikenki",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/73/503MS6.png"
+  },
+  {
+    "number": "504",
+    "name": "Patrat",
+    "kana": "ミネズミ",
+    "hepburn": "Minezumi",
+    "trademark": "Minezumi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e2/504MS6.png"
+  },
+  {
+    "number": "505",
+    "name": "Watchog",
+    "kana": "ミルホッグ",
+    "hepburn": "Miruhoggu",
+    "trademark": "Miruhog",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e3/505MS6.png"
+  },
+  {
+    "number": "506",
+    "name": "Lillipup",
+    "kana": "ヨーテリー",
+    "hepburn": "Yōterī",
+    "trademark": "Yorterrie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ac/506MS8.png"
+  },
+  {
+    "number": "507",
+    "name": "Herdier",
+    "kana": "ハーデリア",
+    "hepburn": "Hāderia",
+    "trademark": "Herderrie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a7/507MS8.png"
+  },
+  {
+    "number": "508",
+    "name": "Stoutland",
+    "kana": "ムーランド",
+    "hepburn": "Mūrando",
+    "trademark": "Mooland",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8b/508MS8.png"
+  },
+  {
+    "number": "509",
+    "name": "Purrloin",
+    "kana": "チョロネコ",
+    "hepburn": "Choroneko",
+    "trademark": "Choroneko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2e/509MS8.png"
+  },
+  {
+    "number": "510",
+    "name": "Liepard",
+    "kana": "レパルダス",
+    "hepburn": "Reparudasu",
+    "trademark": "Lepardas",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ad/510MS8.png"
+  },
+  {
+    "number": "511",
+    "name": "Pansage",
+    "kana": "ヤナップ",
+    "hepburn": "Yanappu",
+    "trademark": "Yanappu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/11/511MS6.png"
+  },
+  {
+    "number": "512",
+    "name": "Simisage",
+    "kana": "ヤナッキー",
+    "hepburn": "Yanakkī",
+    "trademark": "Yanakkie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/07/512MS6.png"
+  },
+  {
+    "number": "513",
+    "name": "Pansear",
+    "kana": "バオップ",
+    "hepburn": "Baoppu",
+    "trademark": "Baoppu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f0/513MS6.png"
+  },
+  {
+    "number": "514",
+    "name": "Simisear",
+    "kana": "バオッキー",
+    "hepburn": "Baokkī",
+    "trademark": "Baokkie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5b/514MS6.png"
+  },
+  {
+    "number": "515",
+    "name": "Panpour",
+    "kana": "ヒヤップ",
+    "hepburn": "Hiyappu",
+    "trademark": "Hiyappu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c8/515MS6.png"
+  },
+  {
+    "number": "516",
+    "name": "Simipour",
+    "kana": "ヒヤッキー",
+    "hepburn": "Hiyakkī",
+    "trademark": "Hiyakkie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/29/516MS6.png"
+  },
+  {
+    "number": "517",
+    "name": "Munna",
+    "kana": "ムンナ",
+    "hepburn": "Munna",
+    "trademark": "Munna",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/77/517MS8.png"
+  },
+  {
+    "number": "518",
+    "name": "Musharna",
+    "kana": "ムシャーナ",
+    "hepburn": "Mushāna",
+    "trademark": "Musharna",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f9/518MS8.png"
+  },
+  {
+    "number": "519",
+    "name": "Pidove",
+    "kana": "マメパト",
+    "hepburn": "Mamepato",
+    "trademark": "Mamepato",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bd/519MS8.png"
+  },
+  {
+    "number": "520",
+    "name": "Tranquill",
+    "kana": "ハトーボー",
+    "hepburn": "Hatōbō",
+    "trademark": "Hatoboh",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8d/520MS8.png"
+  },
+  {
+    "number": "521",
+    "name": "Unfezant",
+    "kana": "ケンホロウ",
+    "hepburn": "Kenhorō",
+    "trademark": "Kenhallow",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/521MS8.png"
+  },
+  {
+    "number": "522",
+    "name": "Blitzle",
+    "kana": "シママ",
+    "hepburn": "Shimama",
+    "trademark": "Shimama",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6d/522MS6.png"
+  },
+  {
+    "number": "523",
+    "name": "Zebstrika",
+    "kana": "ゼブライカ",
+    "hepburn": "Zeburaika",
+    "trademark": "Zebraika",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/98/523MS6.png"
+  },
+  {
+    "number": "524",
+    "name": "Roggenrola",
+    "kana": "ダンゴロ",
+    "hepburn": "Dangoro",
+    "trademark": "Dangoro",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a2/524MS8.png"
+  },
+  {
+    "number": "525",
+    "name": "Boldore",
+    "kana": "ガントル",
+    "hepburn": "Gantoru",
+    "trademark": "Gantle",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/11/525MS8.png"
+  },
+  {
+    "number": "526",
+    "name": "Gigalith",
+    "kana": "ギガイアス",
+    "hepburn": "Gigaiasu",
+    "trademark": "Gigaiath",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/526MS8.png"
+  },
+  {
+    "number": "527",
+    "name": "Woobat",
+    "kana": "コロモリ",
+    "hepburn": "Koromori",
+    "trademark": "Koromori",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/17/527MS8.png"
+  },
+  {
+    "number": "528",
+    "name": "Swoobat",
+    "kana": "ココロモリ",
+    "hepburn": "Kokoromori",
+    "trademark": "Kokoromori",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/ca/528MS8.png"
+  },
+  {
+    "number": "529",
+    "name": "Drilbur",
+    "kana": "モグリュー",
+    "hepburn": "Moguryū",
+    "trademark": "Mogurew",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f7/529MS8.png"
+  },
+  {
+    "number": "530",
+    "name": "Excadrill",
+    "kana": "ドリュウズ",
+    "hepburn": "Doryūzu",
+    "trademark": "Doryuzu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/67/530MS8.png"
+  },
+  {
+    "number": "531",
+    "name": "Audino",
+    "kana": "タブンネ",
+    "hepburn": "Tabunne",
+    "trademark": "Tabunne",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8c/531MS8.png"
+  },
+  {
+    "number": "532",
+    "name": "Timburr",
+    "kana": "ドッコラー",
+    "hepburn": "Dokkorā",
+    "trademark": "Dokkorer",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8f/532MS8.png"
+  },
+  {
+    "number": "533",
+    "name": "Gurdurr",
+    "kana": "ドテッコツ",
+    "hepburn": "Dotekkotsu",
+    "trademark": "Dotekkotsu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/15/533MS8.png"
+  },
+  {
+    "number": "534",
+    "name": "Conkeldurr",
+    "kana": "ローブシン",
+    "hepburn": "Rōbushin",
+    "trademark": "Roubushin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/be/534MS8.png"
+  },
+  {
+    "number": "535",
+    "name": "Tympole",
+    "kana": "オタマロ",
+    "hepburn": "Otamaro",
+    "trademark": "Otamaro",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/19/535MS8.png"
+  },
+  {
+    "number": "536",
+    "name": "Palpitoad",
+    "kana": "ガマガル",
+    "hepburn": "Gamagaru",
+    "trademark": "Gamagaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/ff/536MS8.png"
+  },
+  {
+    "number": "537",
+    "name": "Seismitoad",
+    "kana": "ガマゲロゲ",
+    "hepburn": "Gamageroge",
+    "trademark": "Gamageroge",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7c/537MS8.png"
+  },
+  {
+    "number": "538",
+    "name": "Throh",
+    "kana": "ナゲキ",
+    "hepburn": "Nageki",
+    "trademark": "Nageki",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/70/538MS8.png"
+  },
+  {
+    "number": "539",
+    "name": "Sawk",
+    "kana": "ダゲキ",
+    "hepburn": "Dageki",
+    "trademark": "Dageki",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/86/539MS8.png"
+  },
+  {
+    "number": "540",
+    "name": "Sewaddle",
+    "kana": "クルミル",
+    "hepburn": "Kurumiru",
+    "trademark": "Kurumiru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e2/540MS6.png"
+  },
+  {
+    "number": "541",
+    "name": "Swadloon",
+    "kana": "クルマユ",
+    "hepburn": "Kurumayu",
+    "trademark": "Kurumayu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e1/541MS6.png"
+  },
+  {
+    "number": "542",
+    "name": "Leavanny",
+    "kana": "ハハコモリ",
+    "hepburn": "Hahakomori",
+    "trademark": "Hahakomori",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a6/542MS6.png"
+  },
+  {
+    "number": "543",
+    "name": "Venipede",
+    "kana": "フシデ",
+    "hepburn": "Fushide",
+    "trademark": "Fushide",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/02/543MS8.png"
+  },
+  {
+    "number": "544",
+    "name": "Whirlipede",
+    "kana": "ホイーガ",
+    "hepburn": "Hoīga",
+    "trademark": "Wheega",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/79/544MS8.png"
+  },
+  {
+    "number": "545",
+    "name": "Scolipede",
+    "kana": "ペンドラー",
+    "hepburn": "Pendorā",
+    "trademark": "Pendror",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4a/545MS8.png"
+  },
+  {
+    "number": "546",
+    "name": "Cottonee",
+    "kana": "モンメン",
+    "hepburn": "Monmen",
+    "trademark": "Monmen",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/39/546MS8.png"
+  },
+  {
+    "number": "547",
+    "name": "Whimsicott",
+    "kana": "エルフーン",
+    "hepburn": "Erufūn",
+    "trademark": "Elfuun",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/da/547MS8.png"
+  },
+  {
+    "number": "548",
+    "name": "Petilil",
+    "kana": "チュリネ",
+    "hepburn": "Churine",
+    "trademark": "Churine",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cd/548MS8.png"
+  },
+  {
+    "number": "549",
+    "name": "Lilligant",
+    "kana": "ドレディア",
+    "hepburn": "Doredia",
+    "trademark": "Dredear",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5b/549MS8.png"
+  },
+  {
+    "number": "550",
+    "name": "Basculin",
+    "kana": "バスラオ",
+    "hepburn": "Basurao",
+    "trademark": "Bassrao",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/64/550MS8.png"
+  },
+  {
+    "number": "551",
+    "name": "Sandile",
+    "kana": "メグロコ",
+    "hepburn": "Meguroko",
+    "trademark": "Meguroco",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/51/551MS8.png"
+  },
+  {
+    "number": "552",
+    "name": "Krokorok",
+    "kana": "ワルビル",
+    "hepburn": "Warubiru",
+    "trademark": "Waruvile",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5f/552MS8.png"
+  },
+  {
+    "number": "553",
+    "name": "Krookodile",
+    "kana": "ワルビアル",
+    "hepburn": "Warubiaru",
+    "trademark": "Waruvial",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/69/553MS8.png"
+  },
+  {
+    "number": "554",
+    "name": "Darumaka",
+    "kana": "ダルマッカ",
+    "hepburn": "Darumakka",
+    "trademark": "Darumakka",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1f/554MS8.png"
+  },
+  {
+    "number": "555",
+    "name": "Darmanitan",
+    "kana": "ヒヒダルマ",
+    "hepburn": "Hihidaruma",
+    "trademark": "Hihidaruma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/555MS8.png"
+  },
+  {
+    "number": "556",
+    "name": "Maractus",
+    "kana": "マラカッチ",
+    "hepburn": "Marakatchi",
+    "trademark": "Maracacchi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a3/556MS8.png"
+  },
+  {
+    "number": "557",
+    "name": "Dwebble",
+    "kana": "イシズマイ",
+    "hepburn": "Ishizumai",
+    "trademark": "Ishizumai",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/95/557MS8.png"
+  },
+  {
+    "number": "558",
+    "name": "Crustle",
+    "kana": "イワパレス",
+    "hepburn": "Iwaparesu",
+    "trademark": "Iwapalace",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/51/558MS8.png"
+  },
+  {
+    "number": "559",
+    "name": "Scraggy",
+    "kana": "ズルッグ",
+    "hepburn": "Zuruggu",
+    "trademark": "Zuruggu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c3/559MS8.png"
+  },
+  {
+    "number": "560",
+    "name": "Scrafty",
+    "kana": "ズルズキン",
+    "hepburn": "Zuruzukin",
+    "trademark": "Zuruzukin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/ba/560MS8.png"
+  },
+  {
+    "number": "561",
+    "name": "Sigilyph",
+    "kana": "シンボラー",
+    "hepburn": "Shinborā",
+    "trademark": "Symboler",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c6/561MS8.png"
+  },
+  {
+    "number": "562",
+    "name": "Yamask",
+    "kana": "デスマス",
+    "hepburn": "Desumasu",
+    "trademark": "Desumasu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4d/562MS8.png"
+  },
+  {
+    "number": "563",
+    "name": "Cofagrigus",
+    "kana": "デスカーン",
+    "hepburn": "Desukān",
+    "trademark": "Desukarn",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cb/563MS8.png"
+  },
+  {
+    "number": "564",
+    "name": "Tirtouga",
+    "kana": "プロトーガ",
+    "hepburn": "Purotōga",
+    "trademark": "Protoga",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/54/564MS8.png"
+  },
+  {
+    "number": "565",
+    "name": "Carracosta",
+    "kana": "アバゴーラ",
+    "hepburn": "Abagōra",
+    "trademark": "Abagoura",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ec/565MS8.png"
+  },
+  {
+    "number": "566",
+    "name": "Archen",
+    "kana": "アーケン",
+    "hepburn": "Āken",
+    "trademark": "Archen",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e7/566MS8.png"
+  },
+  {
+    "number": "567",
+    "name": "Archeops",
+    "kana": "アーケオス",
+    "hepburn": "Ākeosu",
+    "trademark": "Archeos",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/47/567MS8.png"
+  },
+  {
+    "number": "568",
+    "name": "Trubbish",
+    "kana": "ヤブクロン",
+    "hepburn": "Yabukuron",
+    "trademark": "Yabukuron",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/55/568MS8.png"
+  },
+  {
+    "number": "569",
+    "name": "Garbodor",
+    "kana": "ダストダス",
+    "hepburn": "Dasutodasu",
+    "trademark": "Dustdas",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/26/569MS8.png"
+  },
+  {
+    "number": "570",
+    "name": "Zorua",
+    "kana": "ゾロア",
+    "hepburn": "Zoroa",
+    "trademark": "Zorua",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5d/570MS8.png"
+  },
+  {
+    "number": "571",
+    "name": "Zoroark",
+    "kana": "ゾロアーク",
+    "hepburn": "Zoroāku",
+    "trademark": "Zoroark",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/81/571MS8.png"
+  },
+  {
+    "number": "572",
+    "name": "Minccino",
+    "kana": "チラーミィ",
+    "hepburn": "Chirāmī",
+    "trademark": "Chillarmy",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/dc/572MS8.png"
+  },
+  {
+    "number": "573",
+    "name": "Cinccino",
+    "kana": "チラチーノ",
+    "hepburn": "Chirachīno",
+    "trademark": "Chillaccino",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2f/573MS8.png"
+  },
+  {
+    "number": "574",
+    "name": "Gothita",
+    "kana": "ゴチム",
+    "hepburn": "Gochimu",
+    "trademark": "Gothimu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/48/574MS8.png"
+  },
+  {
+    "number": "575",
+    "name": "Gothorita",
+    "kana": "ゴチミル",
+    "hepburn": "Gochimiru",
+    "trademark": "Gothimiru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/14/575MS8.png"
+  },
+  {
+    "number": "576",
+    "name": "Gothitelle",
+    "kana": "ゴチルゼル",
+    "hepburn": "Gochiruzeru",
+    "trademark": "Gothiruselle",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b0/576MS8.png"
+  },
+  {
+    "number": "577",
+    "name": "Solosis",
+    "kana": "ユニラン",
+    "hepburn": "Yuniran",
+    "trademark": "Uniran",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/46/577MS8.png"
+  },
+  {
+    "number": "578",
+    "name": "Duosion",
+    "kana": "ダブラン",
+    "hepburn": "Daburan",
+    "trademark": "Doublan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0a/578MS8.png"
+  },
+  {
+    "number": "579",
+    "name": "Reuniclus",
+    "kana": "ランクルス",
+    "hepburn": "Rankurusu",
+    "trademark": "Lanculus",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/05/579MS8.png"
+  },
+  {
+    "number": "580",
+    "name": "Ducklett",
+    "kana": "コアルヒー",
+    "hepburn": "Koaruhī",
+    "trademark": "Koaruhie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6b/580MS6.png"
+  },
+  {
+    "number": "581",
+    "name": "Swanna",
+    "kana": "スワンナ",
+    "hepburn": "Suwanna",
+    "trademark": "Swanna",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/82/581MS6.png"
+  },
+  {
+    "number": "582",
+    "name": "Vanillite",
+    "kana": "バニプッチ",
+    "hepburn": "Baniputchi",
+    "trademark": "Vanipeti",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/be/582MS8.png"
+  },
+  {
+    "number": "583",
+    "name": "Vanillish",
+    "kana": "バニリッチ",
+    "hepburn": "Baniritchi",
+    "trademark": "Vanirich",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e5/583MS8.png"
+  },
+  {
+    "number": "584",
+    "name": "Vanilluxe",
+    "kana": "バイバニラ",
+    "hepburn": "Baibanira",
+    "trademark": "Baivanilla",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fd/584MS8.png"
+  },
+  {
+    "number": "585",
+    "name": "Deerling",
+    "kana": "シキジカ",
+    "hepburn": "Shikijika",
+    "trademark": "Shikijika",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/59/585MS6.png"
+  },
+  {
+    "number": "586",
+    "name": "Sawsbuck",
+    "kana": "メブキジカ",
+    "hepburn": "Mebukijika",
+    "trademark": "Mebukijika",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a8/586MS6.png"
+  },
+  {
+    "number": "587",
+    "name": "Emolga",
+    "kana": "エモンガ",
+    "hepburn": "Emonga",
+    "trademark": "Emonga",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/99/587MS8.png"
+  },
+  {
+    "number": "588",
+    "name": "Karrablast",
+    "kana": "カブルモ",
+    "hepburn": "Kaburumo",
+    "trademark": "Kaburumo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/16/588MS8.png"
+  },
+  {
+    "number": "589",
+    "name": "Escavalier",
+    "kana": "シュバルゴ",
+    "hepburn": "Shubarugo",
+    "trademark": "Chevargo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ed/589MS8.png"
+  },
+  {
+    "number": "590",
+    "name": "Foongus",
+    "kana": "タマゲタケ",
+    "hepburn": "Tamagetake",
+    "trademark": "Tamagetake",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c6/590MS8.png"
+  },
+  {
+    "number": "591",
+    "name": "Amoonguss",
+    "kana": "モロバレル",
+    "hepburn": "Morobareru",
+    "trademark": "Morobareru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/ca/591MS8.png"
+  },
+  {
+    "number": "592",
+    "name": "Frillish",
+    "kana": "プルリル",
+    "hepburn": "Pururiru",
+    "trademark": "Pururill",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7e/592MS8.png"
+  },
+  {
+    "number": "593",
+    "name": "Jellicent",
+    "kana": "ブルンゲル",
+    "hepburn": "Burungeru",
+    "trademark": "Burungel",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/85/593MS8.png"
+  },
+  {
+    "number": "594",
+    "name": "Alomomola",
+    "kana": "ママンボウ",
+    "hepburn": "Mamanbō",
+    "trademark": "Mamanbou",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fd/594MS6.png"
+  },
+  {
+    "number": "595",
+    "name": "Joltik",
+    "kana": "バチュル",
+    "hepburn": "Bachuru",
+    "trademark": "Bachuru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f4/595MS8.png"
+  },
+  {
+    "number": "596",
+    "name": "Galvantula",
+    "kana": "デンチュラ",
+    "hepburn": "Denchura",
+    "trademark": "Dentula",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a0/596MS8.png"
+  },
+  {
+    "number": "597",
+    "name": "Ferroseed",
+    "kana": "テッシード",
+    "hepburn": "Tesshīdo",
+    "trademark": "Tesseed",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a6/597MS8.png"
+  },
+  {
+    "number": "598",
+    "name": "Ferrothorn",
+    "kana": "ナットレイ",
+    "hepburn": "Nattorei",
+    "trademark": "Nutrey",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0a/598MS8.png"
+  },
+  {
+    "number": "599",
+    "name": "Klink",
+    "kana": "ギアル",
+    "hepburn": "Giaru",
+    "trademark": "Giaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/33/599MS8.png"
+  },
+  {
+    "number": "600",
+    "name": "Klang",
+    "kana": "ギギアル",
+    "hepburn": "Gigiaru",
+    "trademark": "Gigiaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/10/600MS8.png"
+  },
+  {
+    "number": "601",
+    "name": "Klinklang",
+    "kana": "ギギギアル",
+    "hepburn": "Gigigiaru",
+    "trademark": "Gigigiaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/07/601MS8.png"
+  },
+  {
+    "number": "602",
+    "name": "Tynamo",
+    "kana": "シビシラス",
+    "hepburn": "Shibishirasu",
+    "trademark": "Shibishirasu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0d/602MS6.png"
+  },
+  {
+    "number": "603",
+    "name": "Eelektrik",
+    "kana": "シビビール",
+    "hepburn": "Shibibīru",
+    "trademark": "Shibibeel",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/97/603MS6.png"
+  },
+  {
+    "number": "604",
+    "name": "Eelektross",
+    "kana": "シビルドン",
+    "hepburn": "Shibirudon",
+    "trademark": "Shibirudon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8c/604MS6.png"
+  },
+  {
+    "number": "605",
+    "name": "Elgyem",
+    "kana": "リグレー",
+    "hepburn": "Rigurē",
+    "trademark": "Ligray",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3d/605MS8.png"
+  },
+  {
+    "number": "606",
+    "name": "Beheeyem",
+    "kana": "オーベム",
+    "hepburn": "Ōbemu",
+    "trademark": "Ohbem",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/59/606MS8.png"
+  },
+  {
+    "number": "607",
+    "name": "Litwick",
+    "kana": "ヒトモシ",
+    "hepburn": "Hitomoshi",
+    "trademark": "Hitomoshi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5a/607MS8.png"
+  },
+  {
+    "number": "608",
+    "name": "Lampent",
+    "kana": "ランプラー",
+    "hepburn": "Ranpurā",
+    "trademark": "Lampler",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4d/608MS8.png"
+  },
+  {
+    "number": "609",
+    "name": "Chandelure",
+    "kana": "シャンデラ",
+    "hepburn": "Shandera",
+    "trademark": "Chandela",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/38/609MS8.png"
+  },
+  {
+    "number": "610",
+    "name": "Axew",
+    "kana": "キバゴ",
+    "hepburn": "Kibago",
+    "trademark": "Kibago",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d8/610MS8.png"
+  },
+  {
+    "number": "611",
+    "name": "Fraxure",
+    "kana": "オノンド",
+    "hepburn": "Onondo",
+    "trademark": "Onondo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e1/611MS8.png"
+  },
+  {
+    "number": "612",
+    "name": "Haxorus",
+    "kana": "オノノクス",
+    "hepburn": "Ononokusu",
+    "trademark": "Ononokus",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/612MS8.png"
+  },
+  {
+    "number": "613",
+    "name": "Cubchoo",
+    "kana": "クマシュン",
+    "hepburn": "Kumashun",
+    "trademark": "Kumasyun",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/97/613MS8.png"
+  },
+  {
+    "number": "614",
+    "name": "Beartic",
+    "kana": "ツンベアー",
+    "hepburn": "Tsunbeā",
+    "trademark": "Tunbear",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/81/614MS8.png"
+  },
+  {
+    "number": "615",
+    "name": "Cryogonal",
+    "kana": "フリージオ",
+    "hepburn": "Furījio",
+    "trademark": "Freegeo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/aa/615MS8.png"
+  },
+  {
+    "number": "616",
+    "name": "Shelmet",
+    "kana": "チョボマキ",
+    "hepburn": "Chobomaki",
+    "trademark": "Chobomaki",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a5/616MS8.png"
+  },
+  {
+    "number": "617",
+    "name": "Accelgor",
+    "kana": "アギルダー",
+    "hepburn": "Agirudā",
+    "trademark": "Agilder",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2d/617MS8.png"
+  },
+  {
+    "number": "618",
+    "name": "Stunfisk",
+    "kana": "マッギョ",
+    "hepburn": "Maggyo",
+    "trademark": "Maggyo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b4/618MS8.png"
+  },
+  {
+    "number": "619",
+    "name": "Mienfoo",
+    "kana": "コジョフー",
+    "hepburn": "Kojofū",
+    "trademark": "Kojofu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fa/619MS8.png"
+  },
+  {
+    "number": "620",
+    "name": "Mienshao",
+    "kana": "コジョンド",
+    "hepburn": "Kojondo",
+    "trademark": "Kojondo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/df/620MS8.png"
+  },
+  {
+    "number": "621",
+    "name": "Druddigon",
+    "kana": "クリムガン",
+    "hepburn": "Kurimugan",
+    "trademark": "Crimgan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b0/621MS8.png"
+  },
+  {
+    "number": "622",
+    "name": "Golett",
+    "kana": "ゴビット",
+    "hepburn": "Gobitto",
+    "trademark": "Gobit",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d2/622MS8.png"
+  },
+  {
+    "number": "623",
+    "name": "Golurk",
+    "kana": "ゴルーグ",
+    "hepburn": "Gorūgu",
+    "trademark": "Goloog",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ab/623MS8.png"
+  },
+  {
+    "number": "624",
+    "name": "Pawniard",
+    "kana": "コマタナ",
+    "hepburn": "Komatana",
+    "trademark": "Komatana",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e9/624MS8.png"
+  },
+  {
+    "number": "625",
+    "name": "Bisharp",
+    "kana": "キリキザン",
+    "hepburn": "Kirikizan",
+    "trademark": "Kirikizan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fb/625MS8.png"
+  },
+  {
+    "number": "626",
+    "name": "Bouffalant",
+    "kana": "バッフロン",
+    "hepburn": "Baffuron",
+    "trademark": "Buffron",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b1/626MS8.png"
+  },
+  {
+    "number": "627",
+    "name": "Rufflet",
+    "kana": "ワシボン",
+    "hepburn": "Washibon",
+    "trademark": "Washibon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f5/627MS8.png"
+  },
+  {
+    "number": "628",
+    "name": "Braviary",
+    "kana": "ウォーグル",
+    "hepburn": "Wōguru",
+    "trademark": "Warrgle",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/88/628MS8.png"
+  },
+  {
+    "number": "629",
+    "name": "Vullaby",
+    "kana": "バルチャイ",
+    "hepburn": "Baruchai",
+    "trademark": "Valchai",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/19/629MS8.png"
+  },
+  {
+    "number": "630",
+    "name": "Mandibuzz",
+    "kana": "バルジーナ",
+    "hepburn": "Barujīna",
+    "trademark": "Vulgina",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/65/630MS8.png"
+  },
+  {
+    "number": "631",
+    "name": "Heatmor",
+    "kana": "クイタラン",
+    "hepburn": "Kuitaran",
+    "trademark": "Kuitaran",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f9/631MS8.png"
+  },
+  {
+    "number": "632",
+    "name": "Durant",
+    "kana": "アイアント",
+    "hepburn": "Aianto",
+    "trademark": "Aiant",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9e/632MS8.png"
+  },
+  {
+    "number": "633",
+    "name": "Deino",
+    "kana": "モノズ",
+    "hepburn": "Monozu",
+    "trademark": "Monozu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/66/633MS8.png"
+  },
+  {
+    "number": "634",
+    "name": "Zweilous",
+    "kana": "ジヘッド",
+    "hepburn": "Jiheddo",
+    "trademark": "Dihead",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0a/634MS8.png"
+  },
+  {
+    "number": "635",
+    "name": "Hydreigon",
+    "kana": "サザンドラ",
+    "hepburn": "Sazandora",
+    "trademark": "Sazandora",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/67/635MS8.png"
+  },
+  {
+    "number": "636",
+    "name": "Larvesta",
+    "kana": "メラルバ",
+    "hepburn": "Meraruba",
+    "trademark": "Merlarva",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/93/636MS8.png"
+  },
+  {
+    "number": "637",
+    "name": "Volcarona",
+    "kana": "ウルガモス",
+    "hepburn": "Urugamosu",
+    "trademark": "Ulgamoth",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fb/637MS8.png"
+  },
+  {
+    "number": "638",
+    "name": "Cobalion",
+    "kana": "コバルオン",
+    "hepburn": "Kobaruon",
+    "trademark": "Cobalon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e7/638MS8.png"
+  },
+  {
+    "number": "639",
+    "name": "Terrakion",
+    "kana": "テラキオン",
+    "hepburn": "Terakion",
+    "trademark": "Terrakion",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/55/639MS8.png"
+  },
+  {
+    "number": "640",
+    "name": "Virizion",
+    "kana": "ビリジオン",
+    "hepburn": "Birijion",
+    "trademark": "Virizion",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/06/640MS8.png"
+  },
+  {
+    "number": "641",
+    "name": "Tornadus",
+    "kana": "トルネロス",
+    "hepburn": "Torunerosu",
+    "trademark": "Tornelos",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/37/641MS8.png"
+  },
+  {
+    "number": "642",
+    "name": "Thundurus",
+    "kana": "ボルトロス",
+    "hepburn": "Borutorosu",
+    "trademark": "Voltolos",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/37/642MS8.png"
+  },
+  {
+    "number": "643",
+    "name": "Reshiram",
+    "kana": "レシラム",
+    "hepburn": "Reshiramu",
+    "trademark": "Reshiram",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0e/643MS8.png"
+  },
+  {
+    "number": "644",
+    "name": "Zekrom",
+    "kana": "ゼクロム",
+    "hepburn": "Zekuromu",
+    "trademark": "Zekrom",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5e/644MS8.png"
+  },
+  {
+    "number": "645",
+    "name": "Landorus",
+    "kana": "ランドロス",
+    "hepburn": "Randorosu",
+    "trademark": "Landlos",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/71/645MS8.png"
+  },
+  {
+    "number": "646",
+    "name": "Kyurem",
+    "kana": "キュレム",
+    "hepburn": "Kyuremu",
+    "trademark": "Kyurem",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9e/646MS8.png"
+  },
+  {
+    "number": "647",
+    "name": "Keldeo",
+    "kana": "ケルディオ",
+    "hepburn": "Kerudio",
+    "trademark": "Keldeo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2e/647MS8.png"
+  },
+  {
+    "number": "648",
+    "name": "Meloetta",
+    "kana": "メロエッタ",
+    "hepburn": "Meroetta",
+    "trademark": "Meloetta",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6e/648MS6.png"
+  },
+  {
+    "number": "649",
+    "name": "Genesect",
+    "kana": "ゲノセクト",
+    "hepburn": "Genosekuto",
+    "trademark": "Genesect",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/ca/649MS8.png"
+  },
+  {
+    "number": "650",
+    "name": "Chespin",
+    "kana": "ハリマロン",
+    "hepburn": "Harimaron",
+    "trademark": "Harimaron",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/27/650MS6.png"
+  },
+  {
+    "number": "651",
+    "name": "Quilladin",
+    "kana": "ハリボーグ",
+    "hepburn": "Haribōgu",
+    "trademark": "Hariborg",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b0/651MS6.png"
+  },
+  {
+    "number": "652",
+    "name": "Chesnaught",
+    "kana": "ブリガロン",
+    "hepburn": "Burigaron",
+    "trademark": "Brigarron",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8f/652MS6.png"
+  },
+  {
+    "number": "653",
+    "name": "Fennekin",
+    "kana": "フォッコ",
+    "hepburn": "Fokko",
+    "trademark": "Fokko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/50/653MS6.png"
+  },
+  {
+    "number": "654",
+    "name": "Braixen",
+    "kana": "テールナー",
+    "hepburn": "Tērunā",
+    "trademark": "Tairenar",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6d/654MS6.png"
+  },
+  {
+    "number": "655",
+    "name": "Delphox",
+    "kana": "マフォクシー",
+    "hepburn": "Mafokushī",
+    "trademark": "Mahoxy",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/97/655MS6.png"
+  },
+  {
+    "number": "656",
+    "name": "Froakie",
+    "kana": "ケロマツ",
+    "hepburn": "Keromatsu",
+    "trademark": "Keromatsu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7c/656MS6.png"
+  },
+  {
+    "number": "657",
+    "name": "Frogadier",
+    "kana": "ゲコガシラ",
+    "hepburn": "Gekogashira",
+    "trademark": "Gekogashira",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/00/657MS6.png"
+  },
+  {
+    "number": "658",
+    "name": "Greninja",
+    "kana": "ゲッコウガ",
+    "hepburn": "Gekkōga",
+    "trademark": "Gekkouga",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cd/658MS6.png"
+  },
+  {
+    "number": "659",
+    "name": "Bunnelby",
+    "kana": "ホルビー",
+    "hepburn": "Horubī",
+    "trademark": "Horubee",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c3/659MS8.png"
+  },
+  {
+    "number": "660",
+    "name": "Diggersby",
+    "kana": "ホルード",
+    "hepburn": "Horūdo",
+    "trademark": "Horudo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a9/660MS8.png"
+  },
+  {
+    "number": "661",
+    "name": "Fletchling",
+    "kana": "ヤヤコマ",
+    "hepburn": "Yayakoma",
+    "trademark": "Yayakoma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/03/661MS8.png"
+  },
+  {
+    "number": "662",
+    "name": "Fletchinder",
+    "kana": "ヒノヤコマ",
+    "hepburn": "Hinoyakoma",
+    "trademark": "Hinoyakoma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d2/662MS8.png"
+  },
+  {
+    "number": "663",
+    "name": "Talonflame",
+    "kana": "ファイアロー",
+    "hepburn": "Faiarō",
+    "trademark": "Fiarrow",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e8/663MS8.png"
+  },
+  {
+    "number": "664",
+    "name": "Scatterbug",
+    "kana": "コフキムシ",
+    "hepburn": "Kofukimushi",
+    "trademark": "Kofukimushi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1e/664MS6.png"
+  },
+  {
+    "number": "665",
+    "name": "Spewpa",
+    "kana": "コフーライ",
+    "hepburn": "Kofūrai",
+    "trademark": "Kofuurai",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/15/665MS6.png"
+  },
+  {
+    "number": "666",
+    "name": "Vivillon",
+    "kana": "ビビヨン",
+    "hepburn": "Bibiyon",
+    "trademark": "Viviyon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/31/666MS6.png"
+  },
+  {
+    "number": "667",
+    "name": "Litleo",
+    "kana": "シシコ",
+    "hepburn": "Shishiko",
+    "trademark": "Shishiko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d4/667MS6.png"
+  },
+  {
+    "number": "668",
+    "name": "Pyroar",
+    "kana": "カエンジシ",
+    "hepburn": "Kaenjishi",
+    "trademark": "Kaenjishi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/22/668MS6.png"
+  },
+  {
+    "number": "669",
+    "name": "Flabébé",
+    "kana": "フラベベ",
+    "hepburn": "Furabebe",
+    "trademark": "Flabebe",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/ff/669MS6.png"
+  },
+  {
+    "number": "670",
+    "name": "Floette",
+    "kana": "フラエッテ",
+    "hepburn": "Furaette",
+    "trademark": "Floette",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/03/670MS6.png"
+  },
+  {
+    "number": "671",
+    "name": "Florges",
+    "kana": "フラージェス",
+    "hepburn": "Furājesu",
+    "trademark": "Florges",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/44/671MS6.png"
+  },
+  {
+    "number": "672",
+    "name": "Skiddo",
+    "kana": "メェークル",
+    "hepburn": "Mēkuru",
+    "trademark": "Meecle",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b3/672MS6.png"
+  },
+  {
+    "number": "673",
+    "name": "Gogoat",
+    "kana": "ゴーゴート",
+    "hepburn": "Gōgōto",
+    "trademark": "Gogoat",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8c/673MS6.png"
+  },
+  {
+    "number": "674",
+    "name": "Pancham",
+    "kana": "ヤンチャム",
+    "hepburn": "Yanchamu",
+    "trademark": "Yancham",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7a/674MS8.png"
+  },
+  {
+    "number": "675",
+    "name": "Pangoro",
+    "kana": "ゴロンダ",
+    "hepburn": "Goronda",
+    "trademark": "Goronda",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4c/675MS8.png"
+  },
+  {
+    "number": "676",
+    "name": "Furfrou",
+    "kana": "トリミアン",
+    "hepburn": "Torimian",
+    "trademark": "Trimmien",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/80/676MS6.png"
+  },
+  {
+    "number": "677",
+    "name": "Espurr",
+    "kana": "ニャスパー",
+    "hepburn": "Nyasupā",
+    "trademark": "Nyasper",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/11/677MS8.png"
+  },
+  {
+    "number": "678",
+    "name": "Meowstic",
+    "kana": "ニャオニクス",
+    "hepburn": "Nyaonikusu",
+    "trademark": "Nyaonix",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/40/678MS8.png"
+  },
+  {
+    "number": "679",
+    "name": "Honedge",
+    "kana": "ヒトツキ",
+    "hepburn": "Hitotsuki",
+    "trademark": "Hitotsuki",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f4/679MS8.png"
+  },
+  {
+    "number": "680",
+    "name": "Doublade",
+    "kana": "ニダンギル",
+    "hepburn": "Nidangiru",
+    "trademark": "Nidangill",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0e/680MS8.png"
+  },
+  {
+    "number": "681",
+    "name": "Aegislash",
+    "kana": "ギルガルド",
+    "hepburn": "Girugarudo",
+    "trademark": "Gillgard",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/09/681MS8.png"
+  },
+  {
+    "number": "682",
+    "name": "Spritzee",
+    "kana": "シュシュプ",
+    "hepburn": "Shushupu",
+    "trademark": "Shushupu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/19/682MS8.png"
+  },
+  {
+    "number": "683",
+    "name": "Aromatisse",
+    "kana": "フレフワン",
+    "hepburn": "Furefuwan",
+    "trademark": "Frefuwan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f0/683MS8.png"
+  },
+  {
+    "number": "684",
+    "name": "Swirlix",
+    "kana": "ペロッパフ",
+    "hepburn": "Peroppafu",
+    "trademark": "Peroppafu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/df/684MS8.png"
+  },
+  {
+    "number": "685",
+    "name": "Slurpuff",
+    "kana": "ペロリーム",
+    "hepburn": "Perorīmu",
+    "trademark": "Peroream",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/38/685MS8.png"
+  },
+  {
+    "number": "686",
+    "name": "Inkay",
+    "kana": "マーイーカ",
+    "hepburn": "Māīka",
+    "trademark": "Maaiika",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/76/686MS8.png"
+  },
+  {
+    "number": "687",
+    "name": "Malamar",
+    "kana": "カラマネロ",
+    "hepburn": "Karamanero",
+    "trademark": "Calamanero",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/ff/687MS8.png"
+  },
+  {
+    "number": "688",
+    "name": "Binacle",
+    "kana": "カメテテ",
+    "hepburn": "Kametete",
+    "trademark": "Kametete",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/42/688MS8.png"
+  },
+  {
+    "number": "689",
+    "name": "Barbaracle",
+    "kana": "ガメノデス",
+    "hepburn": "Gamenodesu",
+    "trademark": "Gamenodes",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a6/689MS8.png"
+  },
+  {
+    "number": "690",
+    "name": "Skrelp",
+    "kana": "クズモー",
+    "hepburn": "Kuzumō",
+    "trademark": "Kuzumo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/58/690MS8.png"
+  },
+  {
+    "number": "691",
+    "name": "Dragalge",
+    "kana": "ドラミドロ",
+    "hepburn": "Doramidoro",
+    "trademark": "Dramidoro",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d8/691MS8.png"
+  },
+  {
+    "number": "692",
+    "name": "Clauncher",
+    "kana": "ウデッポウ",
+    "hepburn": "Udeppō",
+    "trademark": "Udeppou",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/39/692MS8.png"
+  },
+  {
+    "number": "693",
+    "name": "Clawitzer",
+    "kana": "ブロスター",
+    "hepburn": "Burosutā",
+    "trademark": "Bloster",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9b/693MS8.png"
+  },
+  {
+    "number": "694",
+    "name": "Helioptile",
+    "kana": "エリキテル",
+    "hepburn": "Erikiteru",
+    "trademark": "Erikiteru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/72/694MS8.png"
+  },
+  {
+    "number": "695",
+    "name": "Heliolisk",
+    "kana": "エレザード",
+    "hepburn": "Erezādo",
+    "trademark": "Elezard",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/57/695MS8.png"
+  },
+  {
+    "number": "696",
+    "name": "Tyrunt",
+    "kana": "チゴラス",
+    "hepburn": "Chigorasu",
+    "trademark": "Chigoras",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bf/696MS8.png"
+  },
+  {
+    "number": "697",
+    "name": "Tyrantrum",
+    "kana": "ガチゴラス",
+    "hepburn": "Gachigorasu",
+    "trademark": "Gachigoras",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e1/697MS8.png"
+  },
+  {
+    "number": "698",
+    "name": "Amaura",
+    "kana": "アマルス",
+    "hepburn": "Amarusu",
+    "trademark": "Amarus",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8b/698MS8.png"
+  },
+  {
+    "number": "699",
+    "name": "Aurorus",
+    "kana": "アマルルガ",
+    "hepburn": "Amaruruga",
+    "trademark": "Amaruruga",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/40/699MS8.png"
+  },
+  {
+    "number": "700",
+    "name": "Sylveon",
+    "kana": "ニンフィア",
+    "hepburn": "Ninfia",
+    "trademark": "Nymphia",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/21/700MS8.png"
+  },
+  {
+    "number": "701",
+    "name": "Hawlucha",
+    "kana": "ルチャブル",
+    "hepburn": "Ruchaburu",
+    "trademark": "Luchabull",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6b/701MS8.png"
+  },
+  {
+    "number": "702",
+    "name": "Dedenne",
+    "kana": "デデンネ",
+    "hepburn": "Dedenne",
+    "trademark": "Dedenne",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d7/702MS8.png"
+  },
+  {
+    "number": "703",
+    "name": "Carbink",
+    "kana": "メレシー",
+    "hepburn": "Mereshī",
+    "trademark": "Melecie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/73/703MS8.png"
+  },
+  {
+    "number": "704",
+    "name": "Goomy",
+    "kana": "ヌメラ",
+    "hepburn": "Numera",
+    "trademark": "Numera",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cd/704MS8.png"
+  },
+  {
+    "number": "705",
+    "name": "Sliggoo",
+    "kana": "ヌメイル",
+    "hepburn": "Numeiru",
+    "trademark": "Numeil",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/50/705MS8.png"
+  },
+  {
+    "number": "706",
+    "name": "Goodra",
+    "kana": "ヌメルゴン",
+    "hepburn": "Numerugon",
+    "trademark": "Numelgon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/72/706MS8.png"
+  },
+  {
+    "number": "707",
+    "name": "Klefki",
+    "kana": "クレッフィ",
+    "hepburn": "Kureffi",
+    "trademark": "Cleffy",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/24/707MS8.png"
+  },
+  {
+    "number": "708",
+    "name": "Phantump",
+    "kana": "ボクレー",
+    "hepburn": "Bokurē",
+    "trademark": "Bokurei",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fb/708MS8.png"
+  },
+  {
+    "number": "709",
+    "name": "Trevenant",
+    "kana": "オーロット",
+    "hepburn": "Ōrotto",
+    "trademark": "Ohrot",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/97/709MS8.png"
+  },
+  {
+    "number": "710",
+    "name": "Pumpkaboo",
+    "kana": "バケッチャ",
+    "hepburn": "Baketcha",
+    "trademark": "Bakeccha",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/aa/710MS8.png"
+  },
+  {
+    "number": "711",
+    "name": "Gourgeist",
+    "kana": "パンプジン",
+    "hepburn": "Panpujin",
+    "trademark": "Pumpjin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f6/711MS8.png"
+  },
+  {
+    "number": "712",
+    "name": "Bergmite",
+    "kana": "カチコール",
+    "hepburn": "Kachikōru",
+    "trademark": "Kachikohru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/22/712MS8.png"
+  },
+  {
+    "number": "713",
+    "name": "Avalugg",
+    "kana": "クレベース",
+    "hepburn": "Kurebēsu",
+    "trademark": "Crebase",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6a/713MS8.png"
+  },
+  {
+    "number": "714",
+    "name": "Noibat",
+    "kana": "オンバット",
+    "hepburn": "Onbatto",
+    "trademark": "Onbat",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/22/714MS8.png"
+  },
+  {
+    "number": "715",
+    "name": "Noivern",
+    "kana": "オンバーン",
+    "hepburn": "Onbān",
+    "trademark": "Onvern",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e6/715MS8.png"
+  },
+  {
+    "number": "716",
+    "name": "Xerneas",
+    "kana": "ゼルネアス",
+    "hepburn": "Zeruneasu",
+    "trademark": "Xerneas",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2f/716MS8.png"
+  },
+  {
+    "number": "717",
+    "name": "Yveltal",
+    "kana": "イベルタル",
+    "hepburn": "Iberutaru",
+    "trademark": "Yveltal",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2a/717MS8.png"
+  },
+  {
+    "number": "718",
+    "name": "Zygarde",
+    "kana": "ジガルデ",
+    "hepburn": "Jigarude",
+    "trademark": "Zygarde",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/05/718MS8.png"
+  },
+  {
+    "number": "719",
+    "name": "Diancie",
+    "kana": "ディアンシー",
+    "hepburn": "Dianshī",
+    "trademark": "Diancie",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0e/719MS8.png"
+  },
+  {
+    "number": "720",
+    "name": "Hoopa",
+    "kana": "フーパ",
+    "hepburn": "Fūpa",
+    "trademark": "Hoopa",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c1/720MS6.png"
+  },
+  {
+    "number": "721",
+    "name": "Volcanion",
+    "kana": "ボルケニオン",
+    "hepburn": "Borukenion",
+    "trademark": "Volcanion",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d4/721MS8.png"
+  },
+  {
+    "number": "722",
+    "name": "Rowlet",
+    "kana": "モクロー",
+    "hepburn": "Mokurō",
+    "trademark": "Mokuroh",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d1/722MS8.png"
+  },
+  {
+    "number": "723",
+    "name": "Dartrix",
+    "kana": "フクスロー",
+    "hepburn": "Fukusurō",
+    "trademark": "Fukuthrow",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ad/723MS8.png"
+  },
+  {
+    "number": "724",
+    "name": "Decidueye",
+    "kana": "ジュナイパー",
+    "hepburn": "Junaipā",
+    "trademark": "Junaiper",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ec/724MS8.png"
+  },
+  {
+    "number": "725",
+    "name": "Litten",
+    "kana": "ニャビー",
+    "hepburn": "Nyabī",
+    "trademark": "Nyabby",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/85/725MS8.png"
+  },
+  {
+    "number": "726",
+    "name": "Torracat",
+    "kana": "ニャヒート",
+    "hepburn": "Nyahīto",
+    "trademark": "Nyaheat",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b9/726MS8.png"
+  },
+  {
+    "number": "727",
+    "name": "Incineroar",
+    "kana": "ガオガエン",
+    "hepburn": "Gaogaen",
+    "trademark": "Gaogaen",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ac/727MS8.png"
+  },
+  {
+    "number": "728",
+    "name": "Popplio",
+    "kana": "アシマリ",
+    "hepburn": "Ashimari",
+    "trademark": "Ashimari",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/04/728MS8.png"
+  },
+  {
+    "number": "729",
+    "name": "Brionne",
+    "kana": "オシャマリ",
+    "hepburn": "Oshamari",
+    "trademark": "Osyamari",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bf/729MS8.png"
+  },
+  {
+    "number": "730",
+    "name": "Primarina",
+    "kana": "アシレーヌ",
+    "hepburn": "Ashirēnu",
+    "trademark": "Ashirene",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e9/730MS8.png"
+  },
+  {
+    "number": "731",
+    "name": "Pikipek",
+    "kana": "ツツケラ",
+    "hepburn": "Tsutsukera",
+    "trademark": "Tsutsukera",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/06/731MS6.png"
+  },
+  {
+    "number": "732",
+    "name": "Trumbeak",
+    "kana": "ケララッパ",
+    "hepburn": "Kerarappa",
+    "trademark": "Kerarappa",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/55/732MS6.png"
+  },
+  {
+    "number": "733",
+    "name": "Toucannon",
+    "kana": "ドデカバシ",
+    "hepburn": "Dodekabashi",
+    "trademark": "Dodekabashi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/56/733MS6.png"
+  },
+  {
+    "number": "734",
+    "name": "Yungoos",
+    "kana": "ヤングース",
+    "hepburn": "Yangūsu",
+    "trademark": "Youngoose",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0f/734MS6.png"
+  },
+  {
+    "number": "735",
+    "name": "Gumshoos",
+    "kana": "デカグース",
+    "hepburn": "Dekagūsu",
+    "trademark": "Dekagoose",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f5/735MS6.png"
+  },
+  {
+    "number": "736",
+    "name": "Grubbin",
+    "kana": "アゴジムシ",
+    "hepburn": "Agojimushi",
+    "trademark": "Agojimushi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/30/736MS8.png"
+  },
+  {
+    "number": "737",
+    "name": "Charjabug",
+    "kana": "デンヂムシ",
+    "hepburn": "Denjimushi",
+    "trademark": "Dendimushi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/77/737MS8.png"
+  },
+  {
+    "number": "738",
+    "name": "Vikavolt",
+    "kana": "クワガノン",
+    "hepburn": "Kuwaganon",
+    "trademark": "Kuwagannon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/48/738MS8.png"
+  },
+  {
+    "number": "739",
+    "name": "Crabrawler",
+    "kana": "マケンカニ",
+    "hepburn": "Makenkani",
+    "trademark": "Makenkani",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/88/739MS6.png"
+  },
+  {
+    "number": "740",
+    "name": "Crabominable",
+    "kana": "ケケンカニ",
+    "hepburn": "Kekenkani",
+    "trademark": "Kekenkani",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7a/740MS6.png"
+  },
+  {
+    "number": "741",
+    "name": "Oricorio",
+    "kana": "オドリドリ",
+    "hepburn": "Odoridori",
+    "trademark": "Odoridori",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/741MS6.png"
+  },
+  {
+    "number": "742",
+    "name": "Cutiefly",
+    "kana": "アブリー",
+    "hepburn": "Aburī",
+    "trademark": "Abuly",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/af/742MS8.png"
+  },
+  {
+    "number": "743",
+    "name": "Ribombee",
+    "kana": "アブリボン",
+    "hepburn": "Aburibon",
+    "trademark": "Aburibbon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ed/743MS8.png"
+  },
+  {
+    "number": "744",
+    "name": "Rockruff",
+    "kana": "イワンコ",
+    "hepburn": "Iwanko",
+    "trademark": "Iwanko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bd/744MS8.png"
+  },
+  {
+    "number": "745",
+    "name": "Lycanroc",
+    "kana": "ルガルガン",
+    "hepburn": "Rugarugan",
+    "trademark": "Lugarugan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bf/745MS8.png"
+  },
+  {
+    "number": "746",
+    "name": "Wishiwashi",
+    "kana": "ヨワシ",
+    "hepburn": "Yowashi",
+    "trademark": "Yowashi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/21/746MS8.png"
+  },
+  {
+    "number": "747",
+    "name": "Mareanie",
+    "kana": "ヒドイデ",
+    "hepburn": "Hidoide",
+    "trademark": "Hidoide",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/69/747MS8.png"
+  },
+  {
+    "number": "748",
+    "name": "Toxapex",
+    "kana": "ドヒドイデ",
+    "hepburn": "Dohidoide",
+    "trademark": "Dohidoide",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3f/748MS8.png"
+  },
+  {
+    "number": "749",
+    "name": "Mudbray",
+    "kana": "ドロバンコ",
+    "hepburn": "Dorobanko",
+    "trademark": "Dorobanko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5e/749MS8.png"
+  },
+  {
+    "number": "750",
+    "name": "Mudsdale",
+    "kana": "バンバドロ",
+    "hepburn": "Banbadoro",
+    "trademark": "Banbadoro",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6b/750MS8.png"
+  },
+  {
+    "number": "751",
+    "name": "Dewpider",
+    "kana": "シズクモ",
+    "hepburn": "Shizukumo",
+    "trademark": "Shizukumo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bb/751MS8.png"
+  },
+  {
+    "number": "752",
+    "name": "Araquanid",
+    "kana": "オニシズクモ",
+    "hepburn": "Onishizukumo",
+    "trademark": "Onishizukumo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/06/752MS8.png"
+  },
+  {
+    "number": "753",
+    "name": "Fomantis",
+    "kana": "カリキリ",
+    "hepburn": "Karikiri",
+    "trademark": "Karikiri",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4a/753MS8.png"
+  },
+  {
+    "number": "754",
+    "name": "Lurantis",
+    "kana": "ラランテス",
+    "hepburn": "Rarantesu",
+    "trademark": "Lalantes",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8f/754MS8.png"
+  },
+  {
+    "number": "755",
+    "name": "Morelull",
+    "kana": "ネマシュ",
+    "hepburn": "Nemashu",
+    "trademark": "Nemasyu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/19/755MS8.png"
+  },
+  {
+    "number": "756",
+    "name": "Shiinotic",
+    "kana": "マシェード",
+    "hepburn": "Mashēdo",
+    "trademark": "Mashade",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/31/756MS8.png"
+  },
+  {
+    "number": "757",
+    "name": "Salandit",
+    "kana": "ヤトウモリ",
+    "hepburn": "Yatōmori",
+    "trademark": "Yatoumori",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/84/757MS8.png"
+  },
+  {
+    "number": "758",
+    "name": "Salazzle",
+    "kana": "エンニュート",
+    "hepburn": "Ennyūto",
+    "trademark": "Ennewt",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/65/758MS8.png"
+  },
+  {
+    "number": "759",
+    "name": "Stufful",
+    "kana": "ヌイコグマ",
+    "hepburn": "Nuikoguma",
+    "trademark": "Nuikoguma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f3/759MS8.png"
+  },
+  {
+    "number": "760",
+    "name": "Bewear",
+    "kana": "キテルグマ",
+    "hepburn": "Kiteruguma",
+    "trademark": "Kiteruguma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cd/760MS8.png"
+  },
+  {
+    "number": "761",
+    "name": "Bounsweet",
+    "kana": "アマカジ",
+    "hepburn": "Amakaji",
+    "trademark": "Amakaji",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/72/761MS8.png"
+  },
+  {
+    "number": "762",
+    "name": "Steenee",
+    "kana": "アママイコ",
+    "hepburn": "Amamaiko",
+    "trademark": "Amamaiko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/73/762MS8.png"
+  },
+  {
+    "number": "763",
+    "name": "Tsareena",
+    "kana": "アマージョ",
+    "hepburn": "Amājo",
+    "trademark": "Amajo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/ff/763MS8.png"
+  },
+  {
+    "number": "764",
+    "name": "Comfey",
+    "kana": "キュワワー",
+    "hepburn": "Kyuwawā",
+    "trademark": "Cuwawa",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ea/764MS8.png"
+  },
+  {
+    "number": "765",
+    "name": "Oranguru",
+    "kana": "ヤレユータン",
+    "hepburn": "Yareyūtan",
+    "trademark": "Yareyuutan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ad/765MS8.png"
+  },
+  {
+    "number": "766",
+    "name": "Passimian",
+    "kana": "ナゲツケサル",
+    "hepburn": "Nagetsukesaru",
+    "trademark": "Nagetukesaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e0/766MS8.png"
+  },
+  {
+    "number": "767",
+    "name": "Wimpod",
+    "kana": "コソクムシ",
+    "hepburn": "Kosokumushi",
+    "trademark": "Kosokumushi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8f/767MS8.png"
+  },
+  {
+    "number": "768",
+    "name": "Golisopod",
+    "kana": "グソクムシャ",
+    "hepburn": "Gusokumusha",
+    "trademark": "Gusokumusha",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ed/768MS8.png"
+  },
+  {
+    "number": "769",
+    "name": "Sandygast",
+    "kana": "スナバァ",
+    "hepburn": "Sunabā",
+    "trademark": "Sunaba",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/54/769MS8.png"
+  },
+  {
+    "number": "770",
+    "name": "Palossand",
+    "kana": "シロデスナ",
+    "hepburn": "Shirodesuna",
+    "trademark": "Sirodethna",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/67/770MS8.png"
+  },
+  {
+    "number": "771",
+    "name": "Pyukumuku",
+    "kana": "ナマコブシ",
+    "hepburn": "Namakobushi",
+    "trademark": "Namakobushi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/de/771MS8.png"
+  },
+  {
+    "number": "772",
+    "name": "Type: Null",
+    "kana": "タイプ：ヌル",
+    "hepburn": "Taipu:Nuru",
+    "trademark": "Type: Null",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/05/772MS8.png"
+  },
+  {
+    "number": "773",
+    "name": "Silvally",
+    "kana": "シルヴァディ",
+    "hepburn": "Shiruvadi",
+    "trademark": "Silvady",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/97/773MS8.png"
+  },
+  {
+    "number": "774",
+    "name": "Minior",
+    "kana": "メテノ",
+    "hepburn": "Meteno",
+    "trademark": "Meteno",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/00/774MS6.png"
+  },
+  {
+    "number": "775",
+    "name": "Komala",
+    "kana": "ネッコアラ",
+    "hepburn": "Nekkoara",
+    "trademark": "Nekkoara",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fb/775MS6.png"
+  },
+  {
+    "number": "776",
+    "name": "Turtonator",
+    "kana": "バクガメス",
+    "hepburn": "Bakugamesu",
+    "trademark": "Bakugames",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/63/776MS8.png"
+  },
+  {
+    "number": "777",
+    "name": "Togedemaru",
+    "kana": "トゲデマル",
+    "hepburn": "Togedemaru",
+    "trademark": "Togedemaru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a6/777MS8.png"
+  },
+  {
+    "number": "778",
+    "name": "Mimikyu",
+    "kana": "ミミッキュ",
+    "hepburn": "Mimikkyu",
+    "trademark": "Mimikkyu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b3/778MS8.png"
+  },
+  {
+    "number": "779",
+    "name": "Bruxish",
+    "kana": "ハギギシリ",
+    "hepburn": "Hagigishiri",
+    "trademark": "Hagigishiri",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8a/779MS6.png"
+  },
+  {
+    "number": "780",
+    "name": "Drampa",
+    "kana": "ジジーロン",
+    "hepburn": "Jijīron",
+    "trademark": "Jijilong",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2f/780MS8.png"
+  },
+  {
+    "number": "781",
+    "name": "Dhelmise",
+    "kana": "ダダリン",
+    "hepburn": "Dadarin",
+    "trademark": "Dadarin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/25/781MS8.png"
+  },
+  {
+    "number": "782",
+    "name": "Jangmo-o",
+    "kana": "ジャラコ",
+    "hepburn": "Jarako",
+    "trademark": "Jyarako",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b9/782MS8.png"
+  },
+  {
+    "number": "783",
+    "name": "Hakamo-o",
+    "kana": "ジャランゴ",
+    "hepburn": "Jarango",
+    "trademark": "Jyarango",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8a/783MS8.png"
+  },
+  {
+    "number": "784",
+    "name": "Kommo-o",
+    "kana": "ジャラランガ",
+    "hepburn": "Jararanga",
+    "trademark": "Jyararanga",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2a/784MS8.png"
+  },
+  {
+    "number": "785",
+    "name": "Tapu Koko",
+    "kana": "カプ・コケコ",
+    "hepburn": "Kapu Kokeko",
+    "trademark": "Kapu-Kokeko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/55/785MS8.png"
+  },
+  {
+    "number": "786",
+    "name": "Tapu Lele",
+    "kana": "カプ・テテフ",
+    "hepburn": "Kapu Tetefu",
+    "trademark": "Kapu-Tetefu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c7/786MS8.png"
+  },
+  {
+    "number": "787",
+    "name": "Tapu Bulu",
+    "kana": "カプ・ブルル",
+    "hepburn": "Kapu Bururu",
+    "trademark": "Kapu-Bulul",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5f/787MS8.png"
+  },
+  {
+    "number": "788",
+    "name": "Tapu Fini",
+    "kana": "カプ・レヒレ",
+    "hepburn": "Kapu Rehire",
+    "trademark": "Kapu-Rehire",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/19/788MS8.png"
+  },
+  {
+    "number": "789",
+    "name": "Cosmog",
+    "kana": "コスモッグ",
+    "hepburn": "Kosumoggu",
+    "trademark": "Cosmog",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/55/789MS8.png"
+  },
+  {
+    "number": "790",
+    "name": "Cosmoem",
+    "kana": "コスモウム",
+    "hepburn": "Kosumoumu",
+    "trademark": "Cosmovum",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2b/790MS8.png"
+  },
+  {
+    "number": "791",
+    "name": "Solgaleo",
+    "kana": "ソルガレオ",
+    "hepburn": "Sorugareo",
+    "trademark": "Solgaleo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e6/791MS8.png"
+  },
+  {
+    "number": "792",
+    "name": "Lunala",
+    "kana": "ルナアーラ",
+    "hepburn": "Runaāra",
+    "trademark": "Lunala",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/25/792MS8.png"
+  },
+  {
+    "number": "793",
+    "name": "Nihilego",
+    "kana": "ウツロイド",
+    "hepburn": "Utsuroido",
+    "trademark": "Uturoid",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/39/793MS8.png"
+  },
+  {
+    "number": "794",
+    "name": "Buzzwole",
+    "kana": "マッシブーン",
+    "hepburn": "Masshibūn",
+    "trademark": "Massivoon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7b/794MS8.png"
+  },
+  {
+    "number": "795",
+    "name": "Pheromosa",
+    "kana": "フェローチェ",
+    "hepburn": "Ferōche",
+    "trademark": "Pheroache",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bc/795MS8.png"
+  },
+  {
+    "number": "796",
+    "name": "Xurkitree",
+    "kana": "デンジュモク",
+    "hepburn": "Denjumoku",
+    "trademark": "Denjyumoku",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7e/796MS8.png"
+  },
+  {
+    "number": "797",
+    "name": "Celesteela",
+    "kana": "テッカグヤ",
+    "hepburn": "Tekkaguya",
+    "trademark": "Tekkaguya",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e2/797MS8.png"
+  },
+  {
+    "number": "798",
+    "name": "Kartana",
+    "kana": "カミツルギ",
+    "hepburn": "Kamitsurugi",
+    "trademark": "Kamiturugi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d5/798MS8.png"
+  },
+  {
+    "number": "799",
+    "name": "Guzzlord",
+    "kana": "アクジキング",
+    "hepburn": "Akujikingu",
+    "trademark": "Akuziking",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/dd/799MS8.png"
+  },
+  {
+    "number": "800",
+    "name": "Necrozma",
+    "kana": "ネクロズマ",
+    "hepburn": "Nekurozuma",
+    "trademark": "Necrozma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f6/800MS8.png"
+  },
+  {
+    "number": "801",
+    "name": "Magearna",
+    "kana": "マギアナ",
+    "hepburn": "Magiana",
+    "trademark": "Magearna",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c0/801MS8.png"
+  },
+  {
+    "number": "802",
+    "name": "Marshadow",
+    "kana": "マーシャドー",
+    "hepburn": "Māshadō",
+    "trademark": "Marshadow",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d2/802MS8.png"
+  },
+  {
+    "number": "803",
+    "name": "Poipole",
+    "kana": "ベベノム",
+    "hepburn": "Bebenomu",
+    "trademark": "Bevenom",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/49/803MS8.png"
+  },
+  {
+    "number": "804",
+    "name": "Naganadel",
+    "kana": "アーゴヨン",
+    "hepburn": "Āgoyon",
+    "trademark": "Agoyon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/67/804MS8.png"
+  },
+  {
+    "number": "805",
+    "name": "Stakataka",
+    "kana": "ツンデツンデ",
+    "hepburn": "Tsundetsunde",
+    "trademark": "Tundetunde",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/ac/805MS8.png"
+  },
+  {
+    "number": "806",
+    "name": "Blacephalon",
+    "kana": "ズガドーン",
+    "hepburn": "Zugadōn",
+    "trademark": "Zugadoon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/07/806MS8.png"
+  },
+  {
+    "number": "807",
+    "name": "Zeraora",
+    "kana": "ゼラオラ",
+    "hepburn": "Zeraora",
+    "trademark": "Zeraora",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/05/807MS8.png"
+  },
+  {
+    "number": "808",
+    "name": "Meltan",
+    "kana": "メルタン",
+    "hepburn": "Merutan",
+    "trademark": "Meltan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2f/808MS8.png"
+  },
+  {
+    "number": "809",
+    "name": "Melmetal",
+    "kana": "メルメタル",
+    "hepburn": "Merumetaru",
+    "trademark": "Melmetal",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/97/809MS8.png"
+  },
+  {
+    "number": "810",
+    "name": "Grookey",
+    "kana": "サルノリ",
+    "hepburn": "Sarunori",
+    "trademark": "Sarunori",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/ec/810MS8.png"
+  },
+  {
+    "number": "811",
+    "name": "Thwackey",
+    "kana": "バチンキー",
+    "hepburn": "Bachinkī",
+    "trademark": "Bachinkey",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/69/811MS8.png"
+  },
+  {
+    "number": "812",
+    "name": "Rillaboom",
+    "kana": "ゴリランダー",
+    "hepburn": "Gorirandā",
+    "trademark": "Gorirander",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e8/812MS8.png"
+  },
+  {
+    "number": "813",
+    "name": "Scorbunny",
+    "kana": "ヒバニー",
+    "hepburn": "Hibanī",
+    "trademark": "Hibanny",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/df/813MS8.png"
+  },
+  {
+    "number": "814",
+    "name": "Raboot",
+    "kana": "ラビフット",
+    "hepburn": "Rabifutto",
+    "trademark": "Rabbifuto",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5f/814MS8.png"
+  },
+  {
+    "number": "815",
+    "name": "Cinderace",
+    "kana": "エースバーン",
+    "hepburn": "Ēsubān",
+    "trademark": "Aceburn",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bb/815MS8.png"
+  },
+  {
+    "number": "816",
+    "name": "Sobble",
+    "kana": "メッソン",
+    "hepburn": "Messon",
+    "trademark": "Messon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/ce/816MS8.png"
+  },
+  {
+    "number": "817",
+    "name": "Drizzile",
+    "kana": "ジメレオン",
+    "hepburn": "Jimereon",
+    "trademark": "Jimereon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/7a/817MS8.png"
+  },
+  {
+    "number": "818",
+    "name": "Inteleon",
+    "kana": "インテレオン",
+    "hepburn": "Intereon",
+    "trademark": "Intereon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/48/818MS8.png"
+  },
+  {
+    "number": "819",
+    "name": "Skwovet",
+    "kana": "ホシガリス",
+    "hepburn": "Hoshigarisu",
+    "trademark": "Hoshigarisu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5d/819MS8.png"
+  },
+  {
+    "number": "820",
+    "name": "Greedent",
+    "kana": "ヨクバリス",
+    "hepburn": "Yokubarisu",
+    "trademark": "Yokubarisu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9c/820MS8.png"
+  },
+  {
+    "number": "821",
+    "name": "Rookidee",
+    "kana": "ココガラ",
+    "hepburn": "Kokogara",
+    "trademark": "Kokogara",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f8/821MS8.png"
+  },
+  {
+    "number": "822",
+    "name": "Corvisquire",
+    "kana": "アオガラス",
+    "hepburn": "Aogarasu",
+    "trademark": "Aogarasu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/85/822MS8.png"
+  },
+  {
+    "number": "823",
+    "name": "Corviknight",
+    "kana": "アーマーガア",
+    "hepburn": "Āmāgā",
+    "trademark": "Armorga",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/eb/823MS8.png"
+  },
+  {
+    "number": "824",
+    "name": "Blipbug",
+    "kana": "サッチムシ",
+    "hepburn": "Satchimushi",
+    "trademark": "Sacchimushi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/15/824MS8.png"
+  },
+  {
+    "number": "825",
+    "name": "Dottler",
+    "kana": "レドームシ",
+    "hepburn": "Redōmushi",
+    "trademark": "Redomushi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1e/825MS8.png"
+  },
+  {
+    "number": "826",
+    "name": "Orbeetle",
+    "kana": "イオルブ",
+    "hepburn": "Iorubu",
+    "trademark": "Eolb",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/69/826MS8.png"
+  },
+  {
+    "number": "827",
+    "name": "Nickit",
+    "kana": "クスネ",
+    "hepburn": "Kusune",
+    "trademark": "Kusune",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/50/827MS8.png"
+  },
+  {
+    "number": "828",
+    "name": "Thievul",
+    "kana": "フォクスライ",
+    "hepburn": "Fokusurai",
+    "trademark": "Foxly",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9d/828MS8.png"
+  },
+  {
+    "number": "829",
+    "name": "Gossifleur",
+    "kana": "ヒメンカ",
+    "hepburn": "Himenka",
+    "trademark": "Himenka",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/48/829MS8.png"
+  },
+  {
+    "number": "830",
+    "name": "Eldegoss",
+    "kana": "ワタシラガ",
+    "hepburn": "Watashiraga",
+    "trademark": "Watashiraga",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/95/830MS8.png"
+  },
+  {
+    "number": "831",
+    "name": "Wooloo",
+    "kana": "ウールー",
+    "hepburn": "Ūrū",
+    "trademark": "Wooluu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/15/831MS8.png"
+  },
+  {
+    "number": "832",
+    "name": "Dubwool",
+    "kana": "バイウールー",
+    "hepburn": "Baiūrū",
+    "trademark": "Baiwooluu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fb/832MS8.png"
+  },
+  {
+    "number": "833",
+    "name": "Chewtle",
+    "kana": "カムカメ",
+    "hepburn": "Kamukame",
+    "trademark": "Kamukame",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fc/833MS8.png"
+  },
+  {
+    "number": "834",
+    "name": "Drednaw",
+    "kana": "カジリガメ",
+    "hepburn": "Kajirigame",
+    "trademark": "Kajirigame",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/41/834MS8.png"
+  },
+  {
+    "number": "835",
+    "name": "Yamper",
+    "kana": "ワンパチ",
+    "hepburn": "Wanpachi",
+    "trademark": "Wanpachi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/ba/835MS8.png"
+  },
+  {
+    "number": "836",
+    "name": "Boltund",
+    "kana": "パルスワン",
+    "hepburn": "Parusuwan",
+    "trademark": "Pulsewan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9d/836MS8.png"
+  },
+  {
+    "number": "837",
+    "name": "Rolycoly",
+    "kana": "タンドン",
+    "hepburn": "Tandon",
+    "trademark": "Tandon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/2a/837MS8.png"
+  },
+  {
+    "number": "838",
+    "name": "Carkol",
+    "kana": "トロッゴン",
+    "hepburn": "Toroggon",
+    "trademark": "Toroggon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6c/838MS8.png"
+  },
+  {
+    "number": "839",
+    "name": "Coalossal",
+    "kana": "セキタンザン",
+    "hepburn": "Sekitanzan",
+    "trademark": "Sekitanzan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6b/839MS8.png"
+  },
+  {
+    "number": "840",
+    "name": "Applin",
+    "kana": "カジッチュ",
+    "hepburn": "Kajitchu",
+    "trademark": "Kajicchu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/97/840MS8.png"
+  },
+  {
+    "number": "841",
+    "name": "Flapple",
+    "kana": "アップリュー",
+    "hepburn": "Appuryū",
+    "trademark": "Appryu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/8e/841MS8.png"
+  },
+  {
+    "number": "842",
+    "name": "Appletun",
+    "kana": "タルップル",
+    "hepburn": "Taruppuru",
+    "trademark": "Tarupple",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9e/842MS8.png"
+  },
+  {
+    "number": "843",
+    "name": "Silicobra",
+    "kana": "スナヘビ",
+    "hepburn": "Sunahebi",
+    "trademark": "Sunahebi",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/62/843MS8.png"
+  },
+  {
+    "number": "844",
+    "name": "Sandaconda",
+    "kana": "サダイジャ",
+    "hepburn": "Sadaija",
+    "trademark": "Sadaija",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0b/844MS8.png"
+  },
+  {
+    "number": "845",
+    "name": "Cramorant",
+    "kana": "ウッウ",
+    "hepburn": "U'u",
+    "trademark": "Uu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fd/845MS8.png"
+  },
+  {
+    "number": "846",
+    "name": "Arrokuda",
+    "kana": "サシカマス",
+    "hepburn": "Sashikamasu",
+    "trademark": "Sasikamasu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/bd/846MS8.png"
+  },
+  {
+    "number": "847",
+    "name": "Barraskewda",
+    "kana": "カマスジョー",
+    "hepburn": "Kamasujō",
+    "trademark": "Kamasujaw",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3d/847MS8.png"
+  },
+  {
+    "number": "848",
+    "name": "Toxel",
+    "kana": "エレズン",
+    "hepburn": "Erezun",
+    "trademark": "Eleson",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/5b/848MS8.png"
+  },
+  {
+    "number": "849",
+    "name": "Toxtricity",
+    "kana": "ストリンダー",
+    "hepburn": "Sutorindā",
+    "trademark": "Strinder",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/52/849MS8.png"
+  },
+  {
+    "number": "850",
+    "name": "Sizzlipede",
+    "kana": "ヤクデ",
+    "hepburn": "Yakude",
+    "trademark": "Yakude",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d3/850MS8.png"
+  },
+  {
+    "number": "851",
+    "name": "Centiskorch",
+    "kana": "マルヤクデ",
+    "hepburn": "Maruyakude",
+    "trademark": "Maruyakude",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/82/851MS8.png"
+  },
+  {
+    "number": "852",
+    "name": "Clobbopus",
+    "kana": "タタッコ",
+    "hepburn": "Tatakko",
+    "trademark": "Tatakko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/45/852MS8.png"
+  },
+  {
+    "number": "853",
+    "name": "Grapploct",
+    "kana": "オトスパス",
+    "hepburn": "Otosupasu",
+    "trademark": "Otosupus",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cb/853MS8.png"
+  },
+  {
+    "number": "854",
+    "name": "Sinistea",
+    "kana": "ヤバチャ",
+    "hepburn": "Yabacha",
+    "trademark": "Yabacha",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/75/854MS8.png"
+  },
+  {
+    "number": "855",
+    "name": "Polteageist",
+    "kana": "ポットデス",
+    "hepburn": "Pottodesu",
+    "trademark": "Potdeath",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/4b/855MS8.png"
+  },
+  {
+    "number": "856",
+    "name": "Hatenna",
+    "kana": "ミブリム",
+    "hepburn": "Miburimu",
+    "trademark": "Mibrim",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/fe/856MS8.png"
+  },
+  {
+    "number": "857",
+    "name": "Hattrem",
+    "kana": "テブリム",
+    "hepburn": "Teburimu",
+    "trademark": "Tebrim",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/82/857MS8.png"
+  },
+  {
+    "number": "858",
+    "name": "Hatterene",
+    "kana": "ブリムオン",
+    "hepburn": "Burimuon",
+    "trademark": "Brimuon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/77/858MS8.png"
+  },
+  {
+    "number": "859",
+    "name": "Impidimp",
+    "kana": "ベロバー",
+    "hepburn": "Berobā",
+    "trademark": "Beroba",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/7/73/859MS8.png"
+  },
+  {
+    "number": "860",
+    "name": "Morgrem",
+    "kana": "ギモー",
+    "hepburn": "Gimō",
+    "trademark": "Gimoh",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/30/860MS8.png"
+  },
+  {
+    "number": "861",
+    "name": "Grimmsnarl",
+    "kana": "オーロンゲ",
+    "hepburn": "Ōronge",
+    "trademark": "Ohlonge",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/54/861MS8.png"
+  },
+  {
+    "number": "862",
+    "name": "Obstagoon",
+    "kana": "タチフサグマ",
+    "hepburn": "Tachifusaguma",
+    "trademark": "Tachifusaguma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c8/862MS8.png"
+  },
+  {
+    "number": "863",
+    "name": "Perrserker",
+    "kana": "ニャイキング",
+    "hepburn": "Nyaikingu",
+    "trademark": "Nyaiking",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e5/863MS8.png"
+  },
+  {
+    "number": "864",
+    "name": "Cursola",
+    "kana": "サニゴーン",
+    "hepburn": "Sanigōn",
+    "trademark": "Sunigoon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/90/864MS8.png"
+  },
+  {
+    "number": "865",
+    "name": "Sirfetch'd",
+    "kana": "ネギガナイト",
+    "hepburn": "Negiganaito",
+    "trademark": "Negigaknight",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/46/865MS8.png"
+  },
+  {
+    "number": "866",
+    "name": "Mr. Rime",
+    "kana": "バリコオル",
+    "hepburn": "Barikōru",
+    "trademark": "Barrikohru",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/41/866MS8.png"
+  },
+  {
+    "number": "867",
+    "name": "Runerigus",
+    "kana": "デスバーン",
+    "hepburn": "Desubān",
+    "trademark": "Deathbarn",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/0a/867MS8.png"
+  },
+  {
+    "number": "868",
+    "name": "Milcery",
+    "kana": "マホミル",
+    "hepburn": "Mahomiru",
+    "trademark": "Mahomil",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/2/26/868MS8.png"
+  },
+  {
+    "number": "869",
+    "name": "Alcremie",
+    "kana": "マホイップ",
+    "hepburn": "Mahoippu",
+    "trademark": "Mawhip",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/98/869MS8.png"
+  },
+  {
+    "number": "870",
+    "name": "Falinks",
+    "kana": "タイレーツ",
+    "hepburn": "Tairētsu",
+    "trademark": "Tairetsu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b6/870MS8.png"
+  },
+  {
+    "number": "871",
+    "name": "Pincurchin",
+    "kana": "バチンウニ",
+    "hepburn": "Bachin'uni",
+    "trademark": "Bachinuni",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f7/871MS8.png"
+  },
+  {
+    "number": "872",
+    "name": "Snom",
+    "kana": "ユキハミ",
+    "hepburn": "Yukihami",
+    "trademark": "Yukihami",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/1b/872MS8.png"
+  },
+  {
+    "number": "873",
+    "name": "Frosmoth",
+    "kana": "モスノウ",
+    "hepburn": "Mosunō",
+    "trademark": "Mothnow",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e5/873MS8.png"
+  },
+  {
+    "number": "874",
+    "name": "Stonjourner",
+    "kana": "イシヘンジン",
+    "hepburn": "Ishihenjin",
+    "trademark": "Ishihengin",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/b/b6/874MS8.png"
+  },
+  {
+    "number": "875",
+    "name": "Eiscue",
+    "kana": "コオリッポ",
+    "hepburn": "Kōrippo",
+    "trademark": "Korippo",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/3b/875MS8.png"
+  },
+  {
+    "number": "876",
+    "name": "Indeedee",
+    "kana": "イエッサン",
+    "hepburn": "Iessan",
+    "trademark": "Yessan",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/5/57/876MS8.png"
+  },
+  {
+    "number": "877",
+    "name": "Morpeko",
+    "kana": "モルペコ",
+    "hepburn": "Morupeko",
+    "trademark": "Morpeko",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/03/877MS8.png"
+  },
+  {
+    "number": "878",
+    "name": "Cufant",
+    "kana": "ゾウドウ",
+    "hepburn": "Zōdō",
+    "trademark": "Zoudou",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9d/878MS8.png"
+  },
+  {
+    "number": "879",
+    "name": "Copperajah",
+    "kana": "ダイオウドウ",
+    "hepburn": "Daiōdō",
+    "trademark": "Daioudou",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f5/879MS8.png"
+  },
+  {
+    "number": "880",
+    "name": "Dracozolt",
+    "kana": "パッチラゴン",
+    "hepburn": "Patchiragon",
+    "trademark": "Patchiragon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/cd/880MS8.png"
+  },
+  {
+    "number": "881",
+    "name": "Arctozolt",
+    "kana": "パッチルドン",
+    "hepburn": "Patchirudon",
+    "trademark": "Patchilldon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c7/881MS8.png"
+  },
+  {
+    "number": "882",
+    "name": "Dracovish",
+    "kana": "ウオノラゴン",
+    "hepburn": "Uonoragon",
+    "trademark": "Uonoragon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/eb/882MS8.png"
+  },
+  {
+    "number": "883",
+    "name": "Arctovish",
+    "kana": "ウオチルドン",
+    "hepburn": "Uochirudon",
+    "trademark": "Uochilldon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/c/c8/883MS8.png"
+  },
+  {
+    "number": "884",
+    "name": "Duraludon",
+    "kana": "ジュラルドン",
+    "hepburn": "Jurarudon",
+    "trademark": "Duraludon",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/1/14/884MS8.png"
+  },
+  {
+    "number": "885",
+    "name": "Dreepy",
+    "kana": "ドラメシヤ",
+    "hepburn": "Dorameshiya",
+    "trademark": "Dorameshiya",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/0/06/885MS8.png"
+  },
+  {
+    "number": "886",
+    "name": "Drakloak",
+    "kana": "ドロンチ",
+    "hepburn": "Doronchi",
+    "trademark": "Doronch",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/f/f3/886MS8.png"
+  },
+  {
+    "number": "887",
+    "name": "Dragapult",
+    "kana": "ドラパルト",
+    "hepburn": "Doraparuto",
+    "trademark": "Dorapult",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/67/887MS8.png"
+  },
+  {
+    "number": "888",
+    "name": "Zacian",
+    "kana": "ザシアン",
+    "hepburn": "Zashian",
+    "trademark": "Zacian",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/6e/888MS8.png"
+  },
+  {
+    "number": "889",
+    "name": "Zamazenta",
+    "kana": "ザマゼンタ",
+    "hepburn": "Zamazenta",
+    "trademark": "Zamazenta",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/d/d1/889MS8.png"
+  },
+  {
+    "number": "890",
+    "name": "Eternatus",
+    "kana": "ムゲンダイナ",
+    "hepburn": "Mugendaina",
+    "trademark": "Mugendina",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/80/890MS8.png"
+  },
+  {
+    "number": "891",
+    "name": "Kubfu",
+    "kana": "ダクマ",
+    "hepburn": "Dakuma",
+    "trademark": "Dakuma",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/9/9f/891MS8.png"
+  },
+  {
+    "number": "892",
+    "name": "Urshifu",
+    "kana": "ウーラオス",
+    "hepburn": "Ūraosu",
+    "trademark": "Wulaosu",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/a/a7/892MS8.png"
+  },
+  {
+    "number": "893",
+    "name": "Zarude",
+    "kana": "ザルード",
+    "hepburn": "Zarūdo",
+    "trademark": "Zarude",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/62/893MS8.png"
+  },
+  {
+    "number": "894",
+    "name": "Regieleki",
+    "kana": "レジエレキ",
+    "hepburn": "Rejiereki",
+    "trademark": "Regieleki",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/e/e3/894MS8.png"
+  },
+  {
+    "number": "895",
+    "name": "Regidrago",
+    "kana": "レジドラゴ",
+    "hepburn": "Rejidorago",
+    "trademark": "Regidorago",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/4/43/895MS8.png"
+  },
+  {
+    "number": "896",
+    "name": "Glastrier",
+    "kana": "ブリザポス",
+    "hepburn": "Burizaposu",
+    "trademark": "Blizzapos",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/6/68/896MS8.png"
+  },
+  {
+    "number": "897",
+    "name": "Spectrier",
+    "kana": "レイスポス",
+    "hepburn": "Reisuposu",
+    "trademark": "Wraithpos",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/3/34/897MS8.png"
+  },
+  {
+    "number": "898",
+    "name": "Calyrex",
+    "kana": "バドレックス",
+    "hepburn": "Badorekkusu",
+    "trademark": "Budrex",
+    "imageUrl": "//archives.bulbagarden.net/media/upload/8/87/898MS8.png"
+  }
+]
